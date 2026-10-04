@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Fare,Embarked,Title,Deck,FamilySize,IsAlone,AgeGroup,Survived_Label
+1,0,3,"Braund, Mr. Owen Harris",male,22.0,1,0,7.25,S,Mr,U,2,0,Young Adult,Died
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,71.2833,C,Mrs,C,2,0,Adult,Survived
+3,1,3,"Heikkinen, Miss. Laina",female,26.0,0,0,7.925,S,Miss,U,1,1,Young Adult,Survived
+4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,0,53.1,S,Mrs,C,2,0,Young Adult,Survived
+5,0,3,"Allen, Mr. William Henry",male,35.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+6,0,3,"Moran, Mr. James",male,30.0,0,0,8.4583,Q,Mr,U,1,1,Young Adult,Died
+7,0,1,"McCarthy, Mr. Timothy J",male,54.0,0,0,51.8625,S,Mr,E,1,1,Adult,Died
+8,0,3,"Palsson, Master. Gosta Leonard",male,2.0,3,1,21.075,S,Master,U,5,0,Child,Died
+9,1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,0,2,11.1333,S,Mrs,U,3,0,Young Adult,Survived
+10,1,2,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1,0,30.0708,C,Mrs,U,2,0,Teen,Survived
+11,1,3,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,16.7,S,Miss,G,3,0,Child,Survived
+12,1,1,"Bonnell, Miss. Elizabeth",female,58.0,0,0,26.55,S,Miss,C,1,1,Adult,Survived
+13,0,3,"Saundercock, Mr. William Henry",male,20.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+14,0,3,"Andersson, Mr. Anders Johan",male,39.0,1,5,31.275,S,Mr,U,7,0,Adult,Died
+15,0,3,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,0,0,7.8542,S,Miss,U,1,1,Teen,Died
+16,1,2,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0,0,16.0,S,Mrs,U,1,1,Adult,Survived
+17,0,3,"Rice, Master. Eugene",male,2.0,4,1,29.125,Q,Master,U,6,0,Child,Died
+18,1,2,"Williams, Mr. Charles Eugene",male,30.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Survived
+19,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1,0,18.0,S,Mrs,U,2,0,Young Adult,Died
+20,1,3,"Masselmani, Mrs. Fatima",female,35.0,0,0,7.225,C,Mrs,U,1,1,Young Adult,Survived
+21,0,2,"Fynney, Mr. Joseph J",male,35.0,0,0,26.0,S,Mr,U,1,1,Young Adult,Died
+22,1,2,"Beesley, Mr. Lawrence",male,34.0,0,0,13.0,S,Mr,D,1,1,Young Adult,Survived
+23,1,3,"McGowan, Miss. Anna ""Annie""",female,15.0,0,0,8.0292,Q,Miss,U,1,1,Teen,Survived
+24,1,1,"Sloper, Mr. William Thompson",male,28.0,0,0,35.5,S,Mr,A,1,1,Young Adult,Survived
+25,0,3,"Palsson, Miss. Torborg Danira",female,8.0,3,1,21.075,S,Miss,U,5,0,Child,Died
+26,1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,5,31.3875,S,Mrs,U,7,0,Adult,Survived
+27,0,3,"Emir, Mr. Farred Chehab",male,30.0,0,0,7.225,C,Mr,U,1,1,Young Adult,Died
+28,0,1,"Fortune, Mr. Charles Alexander",male,19.0,3,2,263.0,S,Mr,C,6,0,Young Adult,Died
+29,1,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,21.0,0,0,7.8792,Q,Miss,U,1,1,Young Adult,Survived
+30,0,3,"Todoroff, Mr. Lalio",male,30.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+31,0,1,"Uruchurtu, Don. Manuel E",male,40.0,0,0,27.7208,C,Rare,U,1,1,Adult,Died
+32,1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,35.0,1,0,146.5208,C,Mrs,B,2,0,Young Adult,Survived
+33,1,3,"Glynn, Miss. Mary Agatha",female,21.0,0,0,7.75,Q,Miss,U,1,1,Young Adult,Survived
+34,0,2,"Wheadon, Mr. Edward H",male,66.0,0,0,10.5,S,Mr,U,1,1,Senior,Died
+35,0,1,"Meyer, Mr. Edgar Joseph",male,28.0,1,0,82.1708,C,Mr,U,2,0,Young Adult,Died
+36,0,1,"Holverson, Mr. Alexander Oskar",male,42.0,1,0,52.0,S,Mr,U,2,0,Adult,Died
+37,1,3,"Mamee, Mr. Hanna",male,30.0,0,0,7.2292,C,Mr,U,1,1,Young Adult,Survived
+38,0,3,"Cann, Mr. Ernest Charles",male,21.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+39,0,3,"Vander Planke, Miss. Augusta Maria",female,18.0,2,0,18.0,S,Miss,U,3,0,Teen,Died
+40,1,3,"Nicola-Yarred, Miss. Jamila",female,14.0,1,0,11.2417,C,Miss,U,2,0,Teen,Survived
+41,0,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,0,9.475,S,Mrs,U,2,0,Adult,Died
+42,0,2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,1,0,21.0,S,Mrs,U,2,0,Young Adult,Died
+43,0,3,"Kraeff, Mr. Theodor",male,30.0,0,0,7.8958,C,Mr,U,1,1,Young Adult,Died
+44,1,2,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,2,41.5792,C,Miss,U,4,0,Child,Survived
+45,1,3,"Devaney, Miss. Margaret Delia",female,19.0,0,0,7.8792,Q,Miss,U,1,1,Young Adult,Survived
+46,0,3,"Rogers, Mr. William John",male,30.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+47,0,3,"Lennon, Mr. Denis",male,30.0,1,0,15.5,Q,Mr,U,2,0,Young Adult,Died
+48,1,3,"O'Driscoll, Miss. Bridget",female,21.0,0,0,7.75,Q,Miss,U,1,1,Young Adult,Survived
+49,0,3,"Samaan, Mr. Youssef",male,30.0,2,0,21.6792,C,Mr,U,3,0,Young Adult,Died
+50,0,3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,1,0,17.8,S,Mrs,U,2,0,Teen,Died
+51,0,3,"Panula, Master. Juha Niilo",male,7.0,4,1,39.6875,S,Master,U,6,0,Child,Died
+52,0,3,"Nosworthy, Mr. Richard Cater",male,21.0,0,0,7.8,S,Mr,U,1,1,Young Adult,Died
+53,1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,0,76.7292,C,Mrs,D,2,0,Adult,Survived
+54,1,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,1,0,26.0,S,Mrs,U,2,0,Young Adult,Survived
+55,0,1,"Ostby, Mr. Engelhart Cornelius",male,65.0,0,1,61.9792,C,Mr,B,2,0,Senior,Died
+56,1,1,"Woolner, Mr. Hugh",male,30.0,0,0,35.5,S,Mr,C,1,1,Young Adult,Survived
+57,1,2,"Rugg, Miss. Emily",female,21.0,0,0,10.5,S,Miss,U,1,1,Young Adult,Survived
+58,0,3,"Novel, Mr. Mansouer",male,28.5,0,0,7.2292,C,Mr,U,1,1,Young Adult,Died
+59,1,2,"West, Miss. Constance Mirium",female,5.0,1,2,27.75,S,Miss,U,4,0,Child,Survived
+60,0,3,"Goodwin, Master. William Frederick",male,11.0,5,2,46.9,S,Master,U,8,0,Child,Died
+61,0,3,"Sirayanian, Mr. Orsen",male,22.0,0,0,7.2292,C,Mr,U,1,1,Young Adult,Died
+62,1,1,"Icard, Miss. Amelie",female,38.0,0,0,80.0,S,Miss,B,1,1,Adult,Survived
+63,0,1,"Harris, Mr. Henry Birkhardt",male,45.0,1,0,83.475,S,Mr,C,2,0,Adult,Died
+64,0,3,"Skoog, Master. Harald",male,4.0,3,2,27.9,S,Master,U,6,0,Child,Died
+65,0,1,"Stewart, Mr. Albert A",male,30.0,0,0,27.7208,C,Mr,U,1,1,Young Adult,Died
+66,1,3,"Moubarek, Master. Gerios",male,3.5,1,1,15.2458,C,Master,U,3,0,Child,Survived
+67,1,2,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0,0,10.5,S,Mrs,F,1,1,Young Adult,Survived
+68,0,3,"Crease, Mr. Ernest James",male,19.0,0,0,8.1583,S,Mr,U,1,1,Young Adult,Died
+69,1,3,"Andersson, Miss. Erna Alexandra",female,17.0,4,2,7.925,S,Miss,U,7,0,Teen,Survived
+70,0,3,"Kink, Mr. Vincenz",male,26.0,2,0,8.6625,S,Mr,U,3,0,Young Adult,Died
+71,0,2,"Jenkin, Mr. Stephen Curnow",male,32.0,0,0,10.5,S,Mr,U,1,1,Young Adult,Died
+72,0,3,"Goodwin, Miss. Lillian Amy",female,16.0,5,2,46.9,S,Miss,U,8,0,Teen,Died
+73,0,2,"Hood, Mr. Ambrose Jr",male,21.0,0,0,73.5,S,Mr,U,1,1,Young Adult,Died
+74,0,3,"Chronopoulos, Mr. Apostolos",male,26.0,1,0,14.4542,C,Mr,U,2,0,Young Adult,Died
+75,1,3,"Bing, Mr. Lee",male,32.0,0,0,56.4958,S,Mr,U,1,1,Young Adult,Survived
+76,0,3,"Moen, Mr. Sigurd Hansen",male,25.0,0,0,7.65,S,Mr,F,1,1,Young Adult,Died
+77,0,3,"Staneff, Mr. Ivan",male,30.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+78,0,3,"Moutal, Mr. Rahamin Haim",male,30.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+79,1,2,"Caldwell, Master. Alden Gates",male,0.83,0,2,29.0,S,Master,U,3,0,Child,Survived
+80,1,3,"Dowdell, Miss. Elizabeth",female,30.0,0,0,12.475,S,Miss,U,1,1,Young Adult,Survived
+81,0,3,"Waelens, Mr. Achille",male,22.0,0,0,9.0,S,Mr,U,1,1,Young Adult,Died
+82,1,3,"Sheerlinck, Mr. Jan Baptist",male,29.0,0,0,9.5,S,Mr,U,1,1,Young Adult,Survived
+83,1,3,"McDermott, Miss. Brigdet Delia",female,21.0,0,0,7.7875,Q,Miss,U,1,1,Young Adult,Survived
+84,0,1,"Carrau, Mr. Francisco M",male,28.0,0,0,47.1,S,Mr,U,1,1,Young Adult,Died
+85,1,2,"Ilett, Miss. Bertha",female,17.0,0,0,10.5,S,Miss,U,1,1,Teen,Survived
+86,1,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3,0,15.85,S,Mrs,U,4,0,Young Adult,Survived
+87,0,3,"Ford, Mr. William Neal",male,16.0,1,3,34.375,S,Mr,U,5,0,Teen,Died
+88,0,3,"Slocovski, Mr. Selman Francis",male,30.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+89,1,1,"Fortune, Miss. Mabel Helen",female,23.0,3,2,263.0,S,Miss,C,6,0,Young Adult,Survived
+90,0,3,"Celotti, Mr. Francesco",male,24.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+91,0,3,"Christmann, Mr. Emil",male,29.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+92,0,3,"Andreasson, Mr. Paul Edvin",male,20.0,0,0,7.8542,S,Mr,U,1,1,Young Adult,Died
+93,0,1,"Chaffee, Mr. Herbert Fuller",male,46.0,1,0,61.175,S,Mr,E,2,0,Adult,Died
+94,0,3,"Dean, Mr. Bertram Frank",male,26.0,1,2,20.575,S,Mr,U,4,0,Young Adult,Died
+95,0,3,"Coxon, Mr. Daniel",male,59.0,0,0,7.25,S,Mr,U,1,1,Adult,Died
+96,0,3,"Shorney, Mr. Charles Joseph",male,30.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+97,0,1,"Goldschmidt, Mr. George B",male,71.0,0,0,34.6542,C,Mr,A,1,1,Senior,Died
+98,1,1,"Greenfield, Mr. William Bertram",male,23.0,0,1,63.3583,C,Mr,D,2,0,Young Adult,Survived
+99,1,2,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,0,1,23.0,S,Mrs,U,2,0,Young Adult,Survived
+100,0,2,"Kantor, Mr. Sinai",male,34.0,1,0,26.0,S,Mr,U,2,0,Young Adult,Died
+101,0,3,"Petranec, Miss. Matilda",female,28.0,0,0,7.8958,S,Miss,U,1,1,Young Adult,Died
+102,0,3,"Petroff, Mr. Pastcho (""Pentcho"")",male,30.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+103,0,1,"White, Mr. Richard Frasar",male,21.0,0,1,77.2875,S,Mr,D,2,0,Young Adult,Died
+104,0,3,"Johansson, Mr. Gustaf Joel",male,33.0,0,0,8.6542,S,Mr,U,1,1,Young Adult,Died
+105,0,3,"Gustafsson, Mr. Anders Vilhelm",male,37.0,2,0,7.925,S,Mr,U,3,0,Adult,Died
+106,0,3,"Mionoff, Mr. Stoytcho",male,28.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+107,1,3,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0,0,7.65,S,Miss,U,1,1,Young Adult,Survived
+108,1,3,"Moss, Mr. Albert Johan",male,30.0,0,0,7.775,S,Mr,U,1,1,Young Adult,Survived
+109,0,3,"Rekic, Mr. Tido",male,38.0,0,0,7.8958,S,Mr,U,1,1,Adult,Died
+110,1,3,"Moran, Miss. Bertha",female,21.0,1,0,24.15,Q,Miss,U,2,0,Young Adult,Survived
+111,0,1,"Porter, Mr. Walter Chamberlain",male,47.0,0,0,52.0,S,Mr,C,1,1,Adult,Died
+112,0,3,"Zabour, Miss. Hileni",female,14.5,1,0,14.4542,C,Miss,U,2,0,Teen,Died
+113,0,3,"Barton, Mr. David John",male,22.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+114,0,3,"Jussila, Miss. Katriina",female,20.0,1,0,9.825,S,Miss,U,2,0,Young Adult,Died
+115,0,3,"Attalah, Miss. Malake",female,17.0,0,0,14.4583,C,Miss,U,1,1,Teen,Died
+116,0,3,"Pekoniemi, Mr. Edvard",male,21.0,0,0,7.925,S,Mr,U,1,1,Young Adult,Died
+117,0,3,"Connors, Mr. Patrick",male,70.5,0,0,7.75,Q,Mr,U,1,1,Senior,Died
+118,0,2,"Turpin, Mr. William John Robert",male,29.0,1,0,21.0,S,Mr,U,2,0,Young Adult,Died
+119,0,1,"Baxter, Mr. Quigg Edmond",male,24.0,0,1,247.5208,C,Mr,B,2,0,Young Adult,Died
+120,0,3,"Andersson, Miss. Ellis Anna Maria",female,2.0,4,2,31.275,S,Miss,U,7,0,Child,Died
+121,0,2,"Hickman, Mr. Stanley George",male,21.0,2,0,73.5,S,Mr,U,3,0,Young Adult,Died
+122,0,3,"Moore, Mr. Leonard Charles",male,30.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+123,0,2,"Nasser, Mr. Nicholas",male,32.5,1,0,30.0708,C,Mr,U,2,0,Young Adult,Died
+124,1,2,"Webber, Miss. Susan",female,32.5,0,0,13.0,S,Miss,E,1,1,Young Adult,Survived
+125,0,1,"White, Mr. Percival Wayland",male,54.0,0,1,77.2875,S,Mr,D,2,0,Adult,Died
+126,1,3,"Nicola-Yarred, Master. Elias",male,12.0,1,0,11.2417,C,Master,U,2,0,Child,Survived
+127,0,3,"McMahon, Mr. Martin",male,30.0,0,0,7.75,Q,Mr,U,1,1,Young Adult,Died
+128,1,3,"Madsen, Mr. Fridtjof Arne",male,24.0,0,0,7.1417,S,Mr,U,1,1,Young Adult,Survived
+129,1,3,"Peter, Miss. Anna",female,21.0,1,1,22.3583,C,Miss,F,3,0,Young Adult,Survived
+130,0,3,"Ekstrom, Mr. Johan",male,45.0,0,0,6.975,S,Mr,U,1,1,Adult,Died
+131,0,3,"Drazenoic, Mr. Jozef",male,33.0,0,0,7.8958,C,Mr,U,1,1,Young Adult,Died
+132,0,3,"Coelho, Mr. Domingos Fernandeo",male,20.0,0,0,7.05,S,Mr,U,1,1,Young Adult,Died
+133,0,3,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,1,0,14.5,S,Mrs,U,2,0,Adult,Died
+134,1,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,1,0,26.0,S,Mrs,U,2,0,Young Adult,Survived
+135,0,2,"Sobey, Mr. Samuel James Hayden",male,25.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Died
+136,0,2,"Richard, Mr. Emile",male,23.0,0,0,15.0458,C,Mr,U,1,1,Young Adult,Died
+137,1,1,"Newsom, Miss. Helen Monypeny",female,19.0,0,2,26.2833,S,Miss,D,3,0,Young Adult,Survived
+138,0,1,"Futrelle, Mr. Jacques Heath",male,37.0,1,0,53.1,S,Mr,C,2,0,Adult,Died
+139,0,3,"Osen, Mr. Olaf Elon",male,16.0,0,0,9.2167,S,Mr,U,1,1,Teen,Died
+140,0,1,"Giglio, Mr. Victor",male,24.0,0,0,79.2,C,Mr,B,1,1,Young Adult,Died
+141,0,3,"Boulos, Mrs. Joseph (Sultana)",female,35.0,0,2,15.2458,C,Mrs,U,3,0,Young Adult,Died
+142,1,3,"Nysten, Miss. Anna Sofia",female,22.0,0,0,7.75,S,Miss,U,1,1,Young Adult,Survived
+143,1,3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1,0,15.85,S,Mrs,U,2,0,Young Adult,Survived
+144,0,3,"Burke, Mr. Jeremiah",male,19.0,0,0,6.75,Q,Mr,U,1,1,Young Adult,Died
+145,0,2,"Andrew, Mr. Edgardo Samuel",male,18.0,0,0,11.5,S,Mr,U,1,1,Teen,Died
+146,0,2,"Nicholls, Mr. Joseph Charles",male,19.0,1,1,36.75,S,Mr,U,3,0,Young Adult,Died
+147,1,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,0,0,7.7958,S,Mr,U,1,1,Young Adult,Survived
+148,0,3,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,2,2,34.375,S,Miss,U,5,0,Child,Died
+149,0,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,26.0,S,Mr,F,3,0,Adult,Died
+150,0,2,"Byles, Rev. Thomas Roussel Davids",male,42.0,0,0,13.0,S,Rare,U,1,1,Adult,Died
+151,0,2,"Bateman, Rev. Robert James",male,51.0,0,0,12.525,S,Rare,U,1,1,Adult,Died
+152,1,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,0,66.6,S,Mrs,C,2,0,Young Adult,Survived
+153,0,3,"Meo, Mr. Alfonzo",male,55.5,0,0,8.05,S,Mr,U,1,1,Adult,Died
+154,0,3,"van Billiard, Mr. Austin Blyler",male,40.5,0,2,14.5,S,Mr,U,3,0,Adult,Died
+155,0,3,"Olsen, Mr. Ole Martin",male,30.0,0,0,7.3125,S,Mr,U,1,1,Young Adult,Died
+156,0,1,"Williams, Mr. Charles Duane",male,51.0,0,1,61.3792,C,Mr,U,2,0,Adult,Died
+157,1,3,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0,0,7.7333,Q,Miss,U,1,1,Teen,Survived
+158,0,3,"Corn, Mr. Harry",male,30.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+159,0,3,"Smiljanic, Mr. Mile",male,30.0,0,0,8.6625,S,Mr,U,1,1,Young Adult,Died
+160,0,3,"Sage, Master. Thomas Henry",male,3.5,8,2,69.55,S,Master,U,11,0,Child,Died
+161,0,3,"Cribb, Mr. John Hatfield",male,44.0,0,1,16.1,S,Mr,U,2,0,Adult,Died
+162,1,2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,0,0,15.75,S,Mrs,U,1,1,Adult,Survived
+163,0,3,"Bengtsson, Mr. John Viktor",male,26.0,0,0,7.775,S,Mr,U,1,1,Young Adult,Died
+164,0,3,"Calic, Mr. Jovo",male,17.0,0,0,8.6625,S,Mr,U,1,1,Teen,Died
+165,0,3,"Panula, Master. Eino Viljami",male,1.0,4,1,39.6875,S,Master,U,6,0,Child,Died
+166,1,3,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0,2,20.525,S,Master,U,3,0,Child,Survived
+167,1,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,35.0,0,1,55.0,S,Mrs,E,2,0,Young Adult,Survived
+168,0,3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,1,4,27.9,S,Mrs,U,6,0,Adult,Died
+169,0,1,"Baumann, Mr. John D",male,30.0,0,0,25.925,S,Mr,U,1,1,Young Adult,Died
+170,0,3,"Ling, Mr. Lee",male,28.0,0,0,56.4958,S,Mr,U,1,1,Young Adult,Died
+171,0,1,"Van der hoef, Mr. Wyckoff",male,61.0,0,0,33.5,S,Mr,B,1,1,Senior,Died
+172,0,3,"Rice, Master. Arthur",male,4.0,4,1,29.125,Q,Master,U,6,0,Child,Died
+173,1,3,"Johnson, Miss. Eleanor Ileen",female,1.0,1,1,11.1333,S,Miss,U,3,0,Child,Survived
+174,0,3,"Sivola, Mr. Antti Wilhelm",male,21.0,0,0,7.925,S,Mr,U,1,1,Young Adult,Died
+175,0,1,"Smith, Mr. James Clinch",male,56.0,0,0,30.6958,C,Mr,A,1,1,Adult,Died
+176,0,3,"Klasen, Mr. Klas Albin",male,18.0,1,1,7.8542,S,Mr,U,3,0,Teen,Died
+177,0,3,"Lefebre, Master. Henry Forbes",male,3.5,3,1,25.4667,S,Master,U,5,0,Child,Died
+178,0,1,"Isham, Miss. Ann Elizabeth",female,50.0,0,0,28.7125,C,Miss,C,1,1,Adult,Died
+179,0,2,"Hale, Mr. Reginald",male,30.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Died
+180,0,3,"Leonard, Mr. Lionel",male,36.0,0,0,0.0,S,Mr,U,1,1,Adult,Died
+181,0,3,"Sage, Miss. Constance Gladys",female,21.0,8,2,69.55,S,Miss,U,11,0,Young Adult,Died
+182,0,2,"Pernot, Mr. Rene",male,30.0,0,0,15.05,C,Mr,U,1,1,Young Adult,Died
+183,0,3,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,4,2,31.3875,S,Master,U,7,0,Child,Died
+184,1,2,"Becker, Master. Richard F",male,1.0,2,1,39.0,S,Master,F,4,0,Child,Survived
+185,1,3,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0,2,22.025,S,Miss,U,3,0,Child,Survived
+186,0,1,"Rood, Mr. Hugh Roscoe",male,30.0,0,0,50.0,S,Mr,A,1,1,Young Adult,Died
+187,1,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,35.0,1,0,15.5,Q,Mrs,U,2,0,Young Adult,Survived
+188,1,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,0,0,26.55,S,Mr,U,1,1,Adult,Survived
+189,0,3,"Bourke, Mr. John",male,40.0,1,1,15.5,Q,Mr,U,3,0,Adult,Died
+190,0,3,"Turcin, Mr. Stjepan",male,36.0,0,0,7.8958,S,Mr,U,1,1,Adult,Died
+191,1,2,"Pinsky, Mrs. (Rosa)",female,32.0,0,0,13.0,S,Mrs,U,1,1,Young Adult,Survived
+192,0,2,"Carbines, Mr. William",male,19.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Died
+193,1,3,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,1,0,7.8542,S,Miss,U,2,0,Young Adult,Survived
+194,1,2,"Navratil, Master. Michel M",male,3.0,1,1,26.0,S,Master,F,3,0,Child,Survived
+195,1,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0,0,27.7208,C,Mrs,B,1,1,Adult,Survived
+196,1,1,"Lurette, Miss. Elise",female,58.0,0,0,146.5208,C,Miss,B,1,1,Adult,Survived
+197,0,3,"Mernagh, Mr. Robert",male,30.0,0,0,7.75,Q,Mr,U,1,1,Young Adult,Died
+198,0,3,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,0,1,8.4042,S,Mr,U,2,0,Adult,Died
+199,1,3,"Madigan, Miss. Margaret ""Maggie""",female,21.0,0,0,7.75,Q,Miss,U,1,1,Young Adult,Survived
+200,0,2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,0,0,13.0,S,Miss,U,1,1,Young Adult,Died
+201,0,3,"Vande Walle, Mr. Nestor Cyriel",male,28.0,0,0,9.5,S,Mr,U,1,1,Young Adult,Died
+202,0,3,"Sage, Mr. Frederick",male,30.0,8,2,69.55,S,Mr,U,11,0,Young Adult,Died
+203,0,3,"Johanson, Mr. Jakob Alfred",male,34.0,0,0,6.4958,S,Mr,U,1,1,Young Adult,Died
+204,0,3,"Youseff, Mr. Gerious",male,45.5,0,0,7.225,C,Mr,U,1,1,Adult,Died
+205,1,3,"Cohen, Mr. Gurshon ""Gus""",male,18.0,0,0,8.05,S,Mr,U,1,1,Teen,Survived
+206,0,3,"Strom, Miss. Telma Matilda",female,2.0,0,1,10.4625,S,Miss,G,2,0,Child,Died
+207,0,3,"Backstrom, Mr. Karl Alfred",male,32.0,1,0,15.85,S,Mr,U,2,0,Young Adult,Died
+208,1,3,"Albimona, Mr. Nassef Cassem",male,26.0,0,0,18.7875,C,Mr,U,1,1,Young Adult,Survived
+209,1,3,"Carr, Miss. Helen ""Ellen""",female,16.0,0,0,7.75,Q,Miss,U,1,1,Teen,Survived
+210,1,1,"Blank, Mr. Henry",male,40.0,0,0,31.0,C,Mr,A,1,1,Adult,Survived
+211,0,3,"Ali, Mr. Ahmed",male,24.0,0,0,7.05,S,Mr,U,1,1,Young Adult,Died
+212,1,2,"Cameron, Miss. Clear Annie",female,35.0,0,0,21.0,S,Miss,U,1,1,Young Adult,Survived
+213,0,3,"Perkin, Mr. John Henry",male,22.0,0,0,7.25,S,Mr,U,1,1,Young Adult,Died
+214,0,2,"Givard, Mr. Hans Kristensen",male,30.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Died
+215,0,3,"Kiernan, Mr. Philip",male,30.0,1,0,7.75,Q,Mr,U,2,0,Young Adult,Died
+216,1,1,"Newell, Miss. Madeleine",female,31.0,1,0,113.275,C,Miss,D,2,0,Young Adult,Survived
+217,1,3,"Honkanen, Miss. Eliina",female,27.0,0,0,7.925,S,Miss,U,1,1,Young Adult,Survived
+218,0,2,"Jacobsohn, Mr. Sidney Samuel",male,42.0,1,0,27.0,S,Mr,U,2,0,Adult,Died
+219,1,1,"Bazzani, Miss. Albina",female,32.0,0,0,76.2917,C,Miss,D,1,1,Young Adult,Survived
+220,0,2,"Harris, Mr. Walter",male,30.0,0,0,10.5,S,Mr,U,1,1,Young Adult,Died
+221,1,3,"Sunderland, Mr. Victor Francis",male,16.0,0,0,8.05,S,Mr,U,1,1,Teen,Survived
+222,0,2,"Bracken, Mr. James H",male,27.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Died
+223,0,3,"Green, Mr. George Henry",male,51.0,0,0,8.05,S,Mr,U,1,1,Adult,Died
+224,0,3,"Nenkoff, Mr. Christo",male,30.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+225,1,1,"Hoyt, Mr. Frederick Maxfield",male,38.0,1,0,90.0,S,Mr,C,2,0,Adult,Survived
+226,0,3,"Berglund, Mr. Karl Ivar Sven",male,22.0,0,0,9.35,S,Mr,U,1,1,Young Adult,Died
+227,1,2,"Mellors, Mr. William John",male,19.0,0,0,10.5,S,Mr,U,1,1,Young Adult,Survived
+228,0,3,"Lovell, Mr. John Hall (""Henry"")",male,20.5,0,0,7.25,S,Mr,U,1,1,Young Adult,Died
+229,0,2,"Fahlstrom, Mr. Arne Jonas",male,18.0,0,0,13.0,S,Mr,U,1,1,Teen,Died
+230,0,3,"Lefebre, Miss. Mathilde",female,21.0,3,1,25.4667,S,Miss,U,5,0,Young Adult,Died
+231,1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,0,83.475,S,Mrs,C,2,0,Young Adult,Survived
+232,0,3,"Larsson, Mr. Bengt Edvin",male,29.0,0,0,7.775,S,Mr,U,1,1,Young Adult,Died
+233,0,2,"Sjostedt, Mr. Ernst Adolf",male,59.0,0,0,13.5,S,Mr,U,1,1,Adult,Died
+234,1,3,"Asplund, Miss. Lillian Gertrud",female,5.0,4,2,31.3875,S,Miss,U,7,0,Child,Survived
+235,0,2,"Leyson, Mr. Robert William Norman",male,24.0,0,0,10.5,S,Mr,U,1,1,Young Adult,Died
+236,0,3,"Harknett, Miss. Alice Phoebe",female,21.0,0,0,7.55,S,Miss,U,1,1,Young Adult,Died
+237,0,2,"Hold, Mr. Stephen",male,44.0,1,0,26.0,S,Mr,U,2,0,Adult,Died
+238,1,2,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,0,2,26.25,S,Miss,U,3,0,Child,Survived
+239,0,2,"Pengelly, Mr. Frederick William",male,19.0,0,0,10.5,S,Mr,U,1,1,Young Adult,Died
+240,0,2,"Hunt, Mr. George Henry",male,33.0,0,0,12.275,S,Mr,U,1,1,Young Adult,Died
+241,0,3,"Zabour, Miss. Thamine",female,21.0,1,0,14.4542,C,Miss,U,2,0,Young Adult,Died
+242,1,3,"Murphy, Miss. Katherine ""Kate""",female,21.0,1,0,15.5,Q,Miss,U,2,0,Young Adult,Survived
+243,0,2,"Coleridge, Mr. Reginald Charles",male,29.0,0,0,10.5,S,Mr,U,1,1,Young Adult,Died
+244,0,3,"Maenpaa, Mr. Matti Alexanteri",male,22.0,0,0,7.125,S,Mr,U,1,1,Young Adult,Died
+245,0,3,"Attalah, Mr. Sleiman",male,30.0,0,0,7.225,C,Mr,U,1,1,Young Adult,Died
+246,0,1,"Minahan, Dr. William Edward",male,44.0,2,0,90.0,Q,Rare,C,3,0,Adult,Died
+247,0,3,"Lindahl, Miss. Agda Thorilda Viktoria",female,25.0,0,0,7.775,S,Miss,U,1,1,Young Adult,Died
+248,1,2,"Hamalainen, Mrs. William (Anna)",female,24.0,0,2,14.5,S,Mrs,U,3,0,Young Adult,Survived
+249,1,1,"Beckwith, Mr. Richard Leonard",male,37.0,1,1,52.5542,S,Mr,D,3,0,Adult,Survived
+250,0,2,"Carter, Rev. Ernest Courtenay",male,54.0,1,0,26.0,S,Rare,U,2,0,Adult,Died
+251,0,3,"Reed, Mr. James George",male,30.0,0,0,7.25,S,Mr,U,1,1,Young Adult,Died
+252,0,3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,1,1,10.4625,S,Mrs,G,3,0,Young Adult,Died
+253,0,1,"Stead, Mr. William Thomas",male,62.0,0,0,26.55,S,Mr,C,1,1,Senior,Died
+254,0,3,"Lobb, Mr. William Arthur",male,30.0,1,0,16.1,S,Mr,U,2,0,Young Adult,Died
+255,0,3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,0,2,20.2125,S,Mrs,U,3,0,Adult,Died
+256,1,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,0,2,15.2458,C,Mrs,U,3,0,Young Adult,Survived
+257,1,1,"Thorne, Mrs. Gertrude Maybelle",female,35.0,0,0,79.2,C,Mrs,U,1,1,Young Adult,Survived
+258,1,1,"Cherry, Miss. Gladys",female,30.0,0,0,86.5,S,Miss,B,1,1,Young Adult,Survived
+259,1,1,"Ward, Miss. Anna",female,35.0,0,0,512.3292,C,Miss,U,1,1,Young Adult,Survived
+260,1,2,"Parrish, Mrs. (Lutie Davis)",female,50.0,0,1,26.0,S,Mrs,U,2,0,Adult,Survived
+261,0,3,"Smith, Mr. Thomas",male,30.0,0,0,7.75,Q,Mr,U,1,1,Young Adult,Died
+262,1,3,"Asplund, Master. Edvin Rojj Felix",male,3.0,4,2,31.3875,S,Master,U,7,0,Child,Survived
+263,0,1,"Taussig, Mr. Emil",male,52.0,1,1,79.65,S,Mr,E,3,0,Adult,Died
+264,0,1,"Harrison, Mr. William",male,40.0,0,0,0.0,S,Mr,B,1,1,Adult,Died
+265,0,3,"Henry, Miss. Delia",female,21.0,0,0,7.75,Q,Miss,U,1,1,Young Adult,Died
+266,0,2,"Reeves, Mr. David",male,36.0,0,0,10.5,S,Mr,U,1,1,Adult,Died
+267,0,3,"Panula, Mr. Ernesti Arvid",male,16.0,4,1,39.6875,S,Mr,U,6,0,Teen,Died
+268,1,3,"Persson, Mr. Ernst Ulrik",male,25.0,1,0,7.775,S,Mr,U,2,0,Young Adult,Survived
+269,1,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0,1,153.4625,S,Mrs,C,2,0,Adult,Survived
+270,1,1,"Bissette, Miss. Amelia",female,35.0,0,0,135.6333,S,Miss,C,1,1,Young Adult,Survived
+271,0,1,"Cairns, Mr. Alexander",male,30.0,0,0,31.0,S,Mr,U,1,1,Young Adult,Died
+272,1,3,"Tornquist, Mr. William Henry",male,25.0,0,0,0.0,S,Mr,U,1,1,Young Adult,Survived
+273,1,2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,0,1,19.5,S,Mrs,U,2,0,Adult,Survived
+274,0,1,"Natsch, Mr. Charles H",male,37.0,0,1,29.7,C,Mr,C,2,0,Adult,Died
+275,1,3,"Healy, Miss. Hanora ""Nora""",female,21.0,0,0,7.75,Q,Miss,U,1,1,Young Adult,Survived
+276,1,1,"Andrews, Miss. Kornelia Theodosia",female,63.0,1,0,77.9583,S,Miss,D,2,0,Senior,Survived
+277,0,3,"Lindblom, Miss. Augusta Charlotta",female,45.0,0,0,7.75,S,Miss,U,1,1,Adult,Died
+278,0,2,"Parkes, Mr. Francis ""Frank""",male,30.0,0,0,0.0,S,Mr,U,1,1,Young Adult,Died
+279,0,3,"Rice, Master. Eric",male,7.0,4,1,29.125,Q,Master,U,6,0,Child,Died
+280,1,3,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,1,1,20.25,S,Mrs,U,3,0,Young Adult,Survived
+281,0,3,"Duane, Mr. Frank",male,65.0,0,0,7.75,Q,Mr,U,1,1,Senior,Died
+282,0,3,"Olsson, Mr. Nils Johan Goransson",male,28.0,0,0,7.8542,S,Mr,U,1,1,Young Adult,Died
+283,0,3,"de Pelsmaeker, Mr. Alfons",male,16.0,0,0,9.5,S,Mr,U,1,1,Teen,Died
+284,1,3,"Dorking, Mr. Edward Arthur",male,19.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Survived
+285,0,1,"Smith, Mr. Richard William",male,30.0,0,0,26.0,S,Mr,A,1,1,Young Adult,Died
+286,0,3,"Stankovic, Mr. Ivan",male,33.0,0,0,8.6625,C,Mr,U,1,1,Young Adult,Died
+287,1,3,"de Mulder, Mr. Theodore",male,30.0,0,0,9.5,S,Mr,U,1,1,Young Adult,Survived
+288,0,3,"Naidenoff, Mr. Penko",male,22.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+289,1,2,"Hosono, Mr. Masabumi",male,42.0,0,0,13.0,S,Mr,U,1,1,Adult,Survived
+290,1,3,"Connolly, Miss. Kate",female,22.0,0,0,7.75,Q,Miss,U,1,1,Young Adult,Survived
+291,1,1,"Barber, Miss. Ellen ""Nellie""",female,26.0,0,0,78.85,S,Miss,U,1,1,Young Adult,Survived
+292,1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,0,91.0792,C,Mrs,B,2,0,Young Adult,Survived
+293,0,2,"Levy, Mr. Rene Jacques",male,36.0,0,0,12.875,C,Mr,D,1,1,Adult,Died
+294,0,3,"Haas, Miss. Aloisia",female,24.0,0,0,8.85,S,Miss,U,1,1,Young Adult,Died
+295,0,3,"Mineff, Mr. Ivan",male,24.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+296,0,1,"Lewy, Mr. Ervin G",male,30.0,0,0,27.7208,C,Mr,U,1,1,Young Adult,Died
+297,0,3,"Hanna, Mr. Mansour",male,23.5,0,0,7.2292,C,Mr,U,1,1,Young Adult,Died
+298,0,1,"Allison, Miss. Helen Loraine",female,2.0,1,2,151.55,S,Miss,C,4,0,Child,Died
+299,1,1,"Saalfeld, Mr. Adolphe",male,30.0,0,0,30.5,S,Mr,C,1,1,Young Adult,Survived
+300,1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,1,247.5208,C,Mrs,B,2,0,Adult,Survived
+301,1,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,21.0,0,0,7.75,Q,Miss,U,1,1,Young Adult,Survived
+302,1,3,"McCoy, Mr. Bernard",male,30.0,2,0,23.25,Q,Mr,U,3,0,Young Adult,Survived
+303,0,3,"Johnson, Mr. William Cahoone Jr",male,19.0,0,0,0.0,S,Mr,U,1,1,Young Adult,Died
+304,1,2,"Keane, Miss. Nora A",female,21.0,0,0,12.35,Q,Miss,E,1,1,Young Adult,Survived
+305,0,3,"Williams, Mr. Howard Hugh ""Harry""",male,30.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+306,1,1,"Allison, Master. Hudson Trevor",male,0.92,1,2,151.55,S,Master,C,4,0,Child,Survived
+307,1,1,"Fleming, Miss. Margaret",female,21.0,0,0,110.8833,C,Miss,U,1,1,Young Adult,Survived
+308,1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,0,108.9,C,Mrs,C,2,0,Teen,Survived
+309,0,2,"Abelson, Mr. Samuel",male,30.0,1,0,24.0,C,Mr,U,2,0,Young Adult,Died
+310,1,1,"Francatelli, Miss. Laura Mabel",female,30.0,0,0,56.9292,C,Miss,E,1,1,Young Adult,Survived
+311,1,1,"Hays, Miss. Margaret Bechstein",female,24.0,0,0,83.1583,C,Miss,C,1,1,Young Adult,Survived
+312,1,1,"Ryerson, Miss. Emily Borie",female,18.0,2,2,262.375,C,Miss,B,5,0,Teen,Survived
+313,0,2,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,1,1,26.0,S,Mrs,U,3,0,Young Adult,Died
+314,0,3,"Hendekovic, Mr. Ignjac",male,28.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+315,0,2,"Hart, Mr. Benjamin",male,43.0,1,1,26.25,S,Mr,U,3,0,Adult,Died
+316,1,3,"Nilsson, Miss. Helmina Josefina",female,26.0,0,0,7.8542,S,Miss,U,1,1,Young Adult,Survived
+317,1,2,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,1,0,26.0,S,Mrs,U,2,0,Young Adult,Survived
+318,0,2,"Moraweck, Dr. Ernest",male,54.0,0,0,14.0,S,Rare,U,1,1,Adult,Died
+319,1,1,"Wick, Miss. Mary Natalie",female,31.0,0,2,164.8667,S,Miss,C,3,0,Young Adult,Survived
+320,1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1,1,134.5,C,Mrs,E,3,0,Adult,Survived
+321,0,3,"Dennis, Mr. Samuel",male,22.0,0,0,7.25,S,Mr,U,1,1,Young Adult,Died
+322,0,3,"Danoff, Mr. Yoto",male,27.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+323,1,2,"Slayter, Miss. Hilda Mary",female,30.0,0,0,12.35,Q,Miss,U,1,1,Young Adult,Survived
+324,1,2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,1,1,29.0,S,Mrs,U,3,0,Young Adult,Survived
+325,0,3,"Sage, Mr. George John Jr",male,30.0,8,2,69.55,S,Mr,U,11,0,Young Adult,Died
+326,1,1,"Young, Miss. Marie Grice",female,36.0,0,0,135.6333,C,Miss,C,1,1,Adult,Survived
+327,0,3,"Nysveen, Mr. Johan Hansen",male,61.0,0,0,6.2375,S,Mr,U,1,1,Senior,Died
+328,1,2,"Ball, Mrs. (Ada E Hall)",female,36.0,0,0,13.0,S,Mrs,D,1,1,Adult,Survived
+329,1,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,1,1,20.525,S,Mrs,U,3,0,Young Adult,Survived
+330,1,1,"Hippach, Miss. Jean Gertrude",female,16.0,0,1,57.9792,C,Miss,B,2,0,Teen,Survived
+331,1,3,"McCoy, Miss. Agnes",female,21.0,2,0,23.25,Q,Miss,U,3,0,Young Adult,Survived
+332,0,1,"Partner, Mr. Austen",male,45.5,0,0,28.5,S,Mr,C,1,1,Adult,Died
+333,0,1,"Graham, Mr. George Edward",male,38.0,0,1,153.4625,S,Mr,C,2,0,Adult,Died
+334,0,3,"Vander Planke, Mr. Leo Edmondus",male,16.0,2,0,18.0,S,Mr,U,3,0,Teen,Died
+335,1,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,35.0,1,0,133.65,S,Mrs,U,2,0,Young Adult,Survived
+336,0,3,"Denkoff, Mr. Mitto",male,30.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+337,0,1,"Pears, Mr. Thomas Clinton",male,29.0,1,0,66.6,S,Mr,C,2,0,Young Adult,Died
+338,1,1,"Burns, Miss. Elizabeth Margaret",female,41.0,0,0,134.5,C,Miss,E,1,1,Adult,Survived
+339,1,3,"Dahl, Mr. Karl Edwart",male,45.0,0,0,8.05,S,Mr,U,1,1,Adult,Survived
+340,0,1,"Blackwell, Mr. Stephen Weart",male,45.0,0,0,35.5,S,Mr,T,1,1,Adult,Died
+341,1,2,"Navratil, Master. Edmond Roger",male,2.0,1,1,26.0,S,Master,F,3,0,Child,Survived
+342,1,1,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,263.0,S,Miss,C,6,0,Young Adult,Survived
+343,0,2,"Collander, Mr. Erik Gustaf",male,28.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Died
+344,0,2,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Died
+345,0,2,"Fox, Mr. Stanley Hubert",male,36.0,0,0,13.0,S,Mr,U,1,1,Adult,Died
+346,1,2,"Brown, Miss. Amelia ""Mildred""",female,24.0,0,0,13.0,S,Miss,F,1,1,Young Adult,Survived
+347,1,2,"Smith, Miss. Marion Elsie",female,40.0,0,0,13.0,S,Miss,U,1,1,Adult,Survived
+348,1,3,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,35.0,1,0,16.1,S,Mrs,U,2,0,Young Adult,Survived
+349,1,3,"Coutts, Master. William Loch ""William""",male,3.0,1,1,15.9,S,Master,U,3,0,Child,Survived
+350,0,3,"Dimic, Mr. Jovan",male,42.0,0,0,8.6625,S,Mr,U,1,1,Adult,Died
+351,0,3,"Odahl, Mr. Nils Martin",male,23.0,0,0,9.225,S,Mr,U,1,1,Young Adult,Died
+352,0,1,"Williams-Lambert, Mr. Fletcher Fellows",male,30.0,0,0,35.0,S,Mr,C,1,1,Young Adult,Died
+353,0,3,"Elias, Mr. Tannous",male,15.0,1,1,7.2292,C,Mr,U,3,0,Teen,Died
+354,0,3,"Arnold-Franchi, Mr. Josef",male,25.0,1,0,17.8,S,Mr,U,2,0,Young Adult,Died
+355,0,3,"Yousif, Mr. Wazli",male,30.0,0,0,7.225,C,Mr,U,1,1,Young Adult,Died
+356,0,3,"Vanden Steen, Mr. Leo Peter",male,28.0,0,0,9.5,S,Mr,U,1,1,Young Adult,Died
+357,1,1,"Bowerman, Miss. Elsie Edith",female,22.0,0,1,55.0,S,Miss,E,2,0,Young Adult,Survived
+358,0,2,"Funk, Miss. Annie Clemmer",female,38.0,0,0,13.0,S,Miss,U,1,1,Adult,Died
+359,1,3,"McGovern, Miss. Mary",female,21.0,0,0,7.8792,Q,Miss,U,1,1,Young Adult,Survived
+360,1,3,"Mockler, Miss. Helen Mary ""Ellie""",female,21.0,0,0,7.8792,Q,Miss,U,1,1,Young Adult,Survived
+361,0,3,"Skoog, Mr. Wilhelm",male,40.0,1,4,27.9,S,Mr,U,6,0,Adult,Died
+362,0,2,"del Carlo, Mr. Sebastiano",male,29.0,1,0,27.7208,C,Mr,U,2,0,Young Adult,Died
+363,0,3,"Barbara, Mrs. (Catherine David)",female,45.0,0,1,14.4542,C,Mrs,U,2,0,Adult,Died
+364,0,3,"Asim, Mr. Adola",male,35.0,0,0,7.05,S,Mr,U,1,1,Young Adult,Died
+365,0,3,"O'Brien, Mr. Thomas",male,30.0,1,0,15.5,Q,Mr,U,2,0,Young Adult,Died
+366,0,3,"Adahl, Mr. Mauritz Nils Martin",male,30.0,0,0,7.25,S,Mr,U,1,1,Young Adult,Died
+367,1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1,0,75.25,C,Mrs,D,2,0,Adult,Survived
+368,1,3,"Moussa, Mrs. (Mantoura Boulos)",female,35.0,0,0,7.2292,C,Mrs,U,1,1,Young Adult,Survived
+369,1,3,"Jermyn, Miss. Annie",female,21.0,0,0,7.75,Q,Miss,U,1,1,Young Adult,Survived
+370,1,1,"Aubart, Mme. Leontine Pauline",female,24.0,0,0,69.3,C,Mrs,B,1,1,Young Adult,Survived
+371,1,1,"Harder, Mr. George Achilles",male,25.0,1,0,55.4417,C,Mr,E,2,0,Young Adult,Survived
+372,0,3,"Wiklund, Mr. Jakob Alfred",male,18.0,1,0,6.4958,S,Mr,U,2,0,Teen,Died
+373,0,3,"Beavan, Mr. William Thomas",male,19.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+374,0,1,"Ringhini, Mr. Sante",male,22.0,0,0,135.6333,C,Mr,U,1,1,Young Adult,Died
+375,0,3,"Palsson, Miss. Stina Viola",female,3.0,3,1,21.075,S,Miss,U,5,0,Child,Died
+376,1,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,35.0,1,0,82.1708,C,Mrs,U,2,0,Young Adult,Survived
+377,1,3,"Landergren, Miss. Aurora Adelia",female,22.0,0,0,7.25,S,Miss,U,1,1,Young Adult,Survived
+378,0,1,"Widener, Mr. Harry Elkins",male,27.0,0,2,211.5,C,Mr,C,3,0,Young Adult,Died
+379,0,3,"Betros, Mr. Tannous",male,20.0,0,0,4.0125,C,Mr,U,1,1,Young Adult,Died
+380,0,3,"Gustafsson, Mr. Karl Gideon",male,19.0,0,0,7.775,S,Mr,U,1,1,Young Adult,Died
+381,1,1,"Bidois, Miss. Rosalie",female,42.0,0,0,227.525,C,Miss,U,1,1,Adult,Survived
+382,1,3,"Nakid, Miss. Maria (""Mary"")",female,1.0,0,2,15.7417,C,Miss,U,3,0,Child,Survived
+383,0,3,"Tikkanen, Mr. Juho",male,32.0,0,0,7.925,S,Mr,U,1,1,Young Adult,Died
+384,1,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,1,0,52.0,S,Mrs,U,2,0,Young Adult,Survived
+385,0,3,"Plotcharsky, Mr. Vasil",male,30.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+386,0,2,"Davies, Mr. Charles Henry",male,18.0,0,0,73.5,S,Mr,U,1,1,Teen,Died
+387,0,3,"Goodwin, Master. Sidney Leonard",male,1.0,5,2,46.9,S,Master,U,8,0,Child,Died
+388,1,2,"Buss, Miss. Kate",female,36.0,0,0,13.0,S,Miss,U,1,1,Adult,Survived
+389,0,3,"Sadlier, Mr. Matthew",male,30.0,0,0,7.7292,Q,Mr,U,1,1,Young Adult,Died
+390,1,2,"Lehmann, Miss. Bertha",female,17.0,0,0,12.0,C,Miss,U,1,1,Teen,Survived
+391,1,1,"Carter, Mr. William Ernest",male,36.0,1,2,120.0,S,Mr,B,4,0,Adult,Survived
+392,1,3,"Jansson, Mr. Carl Olof",male,21.0,0,0,7.7958,S,Mr,U,1,1,Young Adult,Survived
+393,0,3,"Gustafsson, Mr. Johan Birger",male,28.0,2,0,7.925,S,Mr,U,3,0,Young Adult,Died
+394,1,1,"Newell, Miss. Marjorie",female,23.0,1,0,113.275,C,Miss,D,2,0,Young Adult,Survived
+395,1,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,0,2,16.7,S,Mrs,G,3,0,Young Adult,Survived
+396,0,3,"Johansson, Mr. Erik",male,22.0,0,0,7.7958,S,Mr,U,1,1,Young Adult,Died
+397,0,3,"Olsson, Miss. Elina",female,31.0,0,0,7.8542,S,Miss,U,1,1,Young Adult,Died
+398,0,2,"McKane, Mr. Peter David",male,46.0,0,0,26.0,S,Mr,U,1,1,Adult,Died
+399,0,2,"Pain, Dr. Alfred",male,23.0,0,0,10.5,S,Rare,U,1,1,Young Adult,Died
+400,1,2,"Trout, Mrs. William H (Jessie L)",female,28.0,0,0,12.65,S,Mrs,U,1,1,Young Adult,Survived
+401,1,3,"Niskanen, Mr. Juha",male,39.0,0,0,7.925,S,Mr,U,1,1,Adult,Survived
+402,0,3,"Adams, Mr. John",male,26.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+403,0,3,"Jussila, Miss. Mari Aina",female,21.0,1,0,9.825,S,Miss,U,2,0,Young Adult,Died
+404,0,3,"Hakkarainen, Mr. Pekka Pietari",male,28.0,1,0,15.85,S,Mr,U,2,0,Young Adult,Died
+405,0,3,"Oreskovic, Miss. Marija",female,20.0,0,0,8.6625,S,Miss,U,1,1,Young Adult,Died
+406,0,2,"Gale, Mr. Shadrach",male,34.0,1,0,21.0,S,Mr,U,2,0,Young Adult,Died
+407,0,3,"Widegren, Mr. Carl/Charles Peter",male,51.0,0,0,7.75,S,Mr,U,1,1,Adult,Died
+408,1,2,"Richards, Master. William Rowe",male,3.0,1,1,18.75,S,Master,U,3,0,Child,Survived
+409,0,3,"Birkeland, Mr. Hans Martin Monsen",male,21.0,0,0,7.775,S,Mr,U,1,1,Young Adult,Died
+410,0,3,"Lefebre, Miss. Ida",female,21.0,3,1,25.4667,S,Miss,U,5,0,Young Adult,Died
+411,0,3,"Sdycoff, Mr. Todor",male,30.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+412,0,3,"Hart, Mr. Henry",male,30.0,0,0,6.8583,Q,Mr,U,1,1,Young Adult,Died
+413,1,1,"Minahan, Miss. Daisy E",female,33.0,1,0,90.0,Q,Miss,C,2,0,Young Adult,Survived
+414,0,2,"Cunningham, Mr. Alfred Fleming",male,30.0,0,0,0.0,S,Mr,U,1,1,Young Adult,Died
+415,1,3,"Sundman, Mr. Johan Julian",male,44.0,0,0,7.925,S,Mr,U,1,1,Adult,Survived
+416,0,3,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,35.0,0,0,8.05,S,Mrs,U,1,1,Young Adult,Died
+417,1,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,1,1,32.5,S,Mrs,U,3,0,Young Adult,Survived
+418,1,2,"Silven, Miss. Lyyli Karoliina",female,18.0,0,2,13.0,S,Miss,U,3,0,Teen,Survived
+419,0,2,"Matthews, Mr. William John",male,30.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Died
+420,0,3,"Van Impe, Miss. Catharina",female,10.0,0,2,24.15,S,Miss,U,3,0,Child,Died
+421,0,3,"Gheorgheff, Mr. Stanio",male,30.0,0,0,7.8958,C,Mr,U,1,1,Young Adult,Died
+422,0,3,"Charters, Mr. David",male,21.0,0,0,7.7333,Q,Mr,U,1,1,Young Adult,Died
+423,0,3,"Zimmerman, Mr. Leo",male,29.0,0,0,7.875,S,Mr,U,1,1,Young Adult,Died
+424,0,3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28.0,1,1,14.4,S,Mrs,U,3,0,Young Adult,Died
+425,0,3,"Rosblom, Mr. Viktor Richard",male,18.0,1,1,20.2125,S,Mr,U,3,0,Teen,Died
+426,0,3,"Wiseman, Mr. Phillippe",male,30.0,0,0,7.25,S,Mr,U,1,1,Young Adult,Died
+427,1,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,1,0,26.0,S,Mrs,U,2,0,Young Adult,Survived
+428,1,2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,0,0,26.0,S,Miss,U,1,1,Young Adult,Survived
+429,0,3,"Flynn, Mr. James",male,30.0,0,0,7.75,Q,Mr,U,1,1,Young Adult,Died
+430,1,3,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,0,0,8.05,S,Mr,E,1,1,Young Adult,Survived
+431,1,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,0,0,26.55,S,Mr,C,1,1,Young Adult,Survived
+432,1,3,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,35.0,1,0,16.1,S,Mrs,U,2,0,Young Adult,Survived
+433,1,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,1,0,26.0,S,Mrs,U,2,0,Adult,Survived
+434,0,3,"Kallio, Mr. Nikolai Erland",male,17.0,0,0,7.125,S,Mr,U,1,1,Teen,Died
+435,0,1,"Silvey, Mr. William Baird",male,50.0,1,0,55.9,S,Mr,E,2,0,Adult,Died
+436,1,1,"Carter, Miss. Lucile Polk",female,14.0,1,2,120.0,S,Miss,B,4,0,Teen,Survived
+437,0,3,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,2,2,34.375,S,Miss,U,5,0,Young Adult,Died
+438,1,2,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,2,3,18.75,S,Mrs,U,6,0,Young Adult,Survived
+439,0,1,"Fortune, Mr. Mark",male,64.0,1,4,263.0,S,Mr,C,6,0,Senior,Died
+440,0,2,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0,0,10.5,S,Mr,U,1,1,Young Adult,Died
+441,1,2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,1,1,26.25,S,Mrs,U,3,0,Adult,Survived
+442,0,3,"Hampe, Mr. Leon",male,20.0,0,0,9.5,S,Mr,U,1,1,Young Adult,Died
+443,0,3,"Petterson, Mr. Johan Emil",male,25.0,1,0,7.775,S,Mr,U,2,0,Young Adult,Died
+444,1,2,"Reynaldo, Ms. Encarnacion",female,28.0,0,0,13.0,S,Miss,U,1,1,Young Adult,Survived
+445,1,3,"Johannesen-Bratthammer, Mr. Bernt",male,30.0,0,0,8.1125,S,Mr,U,1,1,Young Adult,Survived
+446,1,1,"Dodge, Master. Washington",male,4.0,0,2,81.8583,S,Master,A,3,0,Child,Survived
+447,1,2,"Mellinger, Miss. Madeleine Violet",female,13.0,0,1,19.5,S,Miss,U,2,0,Teen,Survived
+448,1,1,"Seward, Mr. Frederic Kimber",male,34.0,0,0,26.55,S,Mr,U,1,1,Young Adult,Survived
+449,1,3,"Baclini, Miss. Marie Catherine",female,5.0,2,1,19.2583,C,Miss,U,4,0,Child,Survived
+450,1,1,"Peuchen, Major. Arthur Godfrey",male,52.0,0,0,30.5,S,Rare,C,1,1,Adult,Survived
+451,0,2,"West, Mr. Edwy Arthur",male,36.0,1,2,27.75,S,Mr,U,4,0,Adult,Died
+452,0,3,"Hagland, Mr. Ingvald Olai Olsen",male,30.0,1,0,19.9667,S,Mr,U,2,0,Young Adult,Died
+453,0,1,"Foreman, Mr. Benjamin Laventall",male,30.0,0,0,27.75,C,Mr,C,1,1,Young Adult,Died
+454,1,1,"Goldenberg, Mr. Samuel L",male,49.0,1,0,89.1042,C,Mr,C,2,0,Adult,Survived
+455,0,3,"Peduzzi, Mr. Joseph",male,30.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+456,1,3,"Jalsevac, Mr. Ivan",male,29.0,0,0,7.8958,C,Mr,U,1,1,Young Adult,Survived
+457,0,1,"Millet, Mr. Francis Davis",male,65.0,0,0,26.55,S,Mr,E,1,1,Senior,Died
+458,1,1,"Kenyon, Mrs. Frederick R (Marion)",female,35.0,1,0,51.8625,S,Mrs,D,2,0,Young Adult,Survived
+459,1,2,"Toomey, Miss. Ellen",female,50.0,0,0,10.5,S,Miss,U,1,1,Adult,Survived
+460,0,3,"O'Connor, Mr. Maurice",male,30.0,0,0,7.75,Q,Mr,U,1,1,Young Adult,Died
+461,1,1,"Anderson, Mr. Harry",male,48.0,0,0,26.55,S,Mr,E,1,1,Adult,Survived
+462,0,3,"Morley, Mr. William",male,34.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+463,0,1,"Gee, Mr. Arthur H",male,47.0,0,0,38.5,S,Mr,E,1,1,Adult,Died
+464,0,2,"Milling, Mr. Jacob Christian",male,48.0,0,0,13.0,S,Mr,U,1,1,Adult,Died
+465,0,3,"Maisner, Mr. Simon",male,30.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+466,0,3,"Goncalves, Mr. Manuel Estanslas",male,38.0,0,0,7.05,S,Mr,U,1,1,Adult,Died
+467,0,2,"Campbell, Mr. William",male,30.0,0,0,0.0,S,Mr,U,1,1,Young Adult,Died
+468,0,1,"Smart, Mr. John Montgomery",male,56.0,0,0,26.55,S,Mr,U,1,1,Adult,Died
+469,0,3,"Scanlan, Mr. James",male,30.0,0,0,7.725,Q,Mr,U,1,1,Young Adult,Died
+470,1,3,"Baclini, Miss. Helene Barbara",female,0.75,2,1,19.2583,C,Miss,U,4,0,Child,Survived
+471,0,3,"Keefe, Mr. Arthur",male,30.0,0,0,7.25,S,Mr,U,1,1,Young Adult,Died
+472,0,3,"Cacic, Mr. Luka",male,38.0,0,0,8.6625,S,Mr,U,1,1,Adult,Died
+473,1,2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,1,2,27.75,S,Mrs,U,4,0,Young Adult,Survived
+474,1,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0,0,13.7917,C,Mrs,D,1,1,Young Adult,Survived
+475,0,3,"Strandberg, Miss. Ida Sofia",female,22.0,0,0,9.8375,S,Miss,U,1,1,Young Adult,Died
+476,0,1,"Clifford, Mr. George Quincy",male,30.0,0,0,52.0,S,Mr,A,1,1,Young Adult,Died
+477,0,2,"Renouf, Mr. Peter Henry",male,34.0,1,0,21.0,S,Mr,U,2,0,Young Adult,Died
+478,0,3,"Braund, Mr. Lewis Richard",male,29.0,1,0,7.0458,S,Mr,U,2,0,Young Adult,Died
+479,0,3,"Karlsson, Mr. Nils August",male,22.0,0,0,7.5208,S,Mr,U,1,1,Young Adult,Died
+480,1,3,"Hirvonen, Miss. Hildur E",female,2.0,0,1,12.2875,S,Miss,U,2,0,Child,Survived
+481,0,3,"Goodwin, Master. Harold Victor",male,9.0,5,2,46.9,S,Master,U,8,0,Child,Died
+482,0,2,"Frost, Mr. Anthony Wood ""Archie""",male,30.0,0,0,0.0,S,Mr,U,1,1,Young Adult,Died
+483,0,3,"Rouse, Mr. Richard Henry",male,50.0,0,0,8.05,S,Mr,U,1,1,Adult,Died
+484,1,3,"Turkula, Mrs. (Hedwig)",female,63.0,0,0,9.5875,S,Mrs,U,1,1,Senior,Survived
+485,1,1,"Bishop, Mr. Dickinson H",male,25.0,1,0,91.0792,C,Mr,B,2,0,Young Adult,Survived
+486,0,3,"Lefebre, Miss. Jeannie",female,21.0,3,1,25.4667,S,Miss,U,5,0,Young Adult,Died
+487,1,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1,0,90.0,S,Mrs,C,2,0,Young Adult,Survived
+488,0,1,"Kent, Mr. Edward Austin",male,58.0,0,0,29.7,C,Mr,B,1,1,Adult,Died
+489,0,3,"Somerton, Mr. Francis William",male,30.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+490,1,3,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,1,1,15.9,S,Master,U,3,0,Child,Survived
+491,0,3,"Hagland, Mr. Konrad Mathias Reiersen",male,30.0,1,0,19.9667,S,Mr,U,2,0,Young Adult,Died
+492,0,3,"Windelov, Mr. Einar",male,21.0,0,0,7.25,S,Mr,U,1,1,Young Adult,Died
+493,0,1,"Molson, Mr. Harry Markland",male,55.0,0,0,30.5,S,Mr,C,1,1,Adult,Died
+494,0,1,"Artagaveytia, Mr. Ramon",male,71.0,0,0,49.5042,C,Mr,U,1,1,Senior,Died
+495,0,3,"Stanley, Mr. Edward Roland",male,21.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+496,0,3,"Yousseff, Mr. Gerious",male,30.0,0,0,14.4583,C,Mr,U,1,1,Young Adult,Died
+497,1,1,"Eustis, Miss. Elizabeth Mussey",female,54.0,1,0,78.2667,C,Miss,D,2,0,Adult,Survived
+498,0,3,"Shellard, Mr. Frederick William",male,30.0,0,0,15.1,S,Mr,U,1,1,Young Adult,Died
+499,0,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0,1,2,151.55,S,Mrs,C,4,0,Young Adult,Died
+500,0,3,"Svensson, Mr. Olof",male,24.0,0,0,7.7958,S,Mr,U,1,1,Young Adult,Died
+501,0,3,"Calic, Mr. Petar",male,17.0,0,0,8.6625,S,Mr,U,1,1,Teen,Died
+502,0,3,"Canavan, Miss. Mary",female,21.0,0,0,7.75,Q,Miss,U,1,1,Young Adult,Died
+503,0,3,"O'Sullivan, Miss. Bridget Mary",female,21.0,0,0,7.6292,Q,Miss,U,1,1,Young Adult,Died
+504,0,3,"Laitinen, Miss. Kristina Sofia",female,37.0,0,0,9.5875,S,Miss,U,1,1,Adult,Died
+505,1,1,"Maioni, Miss. Roberta",female,16.0,0,0,86.5,S,Miss,B,1,1,Teen,Survived
+506,0,1,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,1,0,108.9,C,Mr,C,2,0,Teen,Died
+507,1,2,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,0,2,26.0,S,Mrs,U,3,0,Young Adult,Survived
+508,1,1,"Bradley, Mr. George (""George Arthur Brayton"")",male,30.0,0,0,26.55,S,Mr,U,1,1,Young Adult,Survived
+509,0,3,"Olsen, Mr. Henry Margido",male,28.0,0,0,22.525,S,Mr,U,1,1,Young Adult,Died
+510,1,3,"Lang, Mr. Fang",male,26.0,0,0,56.4958,S,Mr,U,1,1,Young Adult,Survived
+511,1,3,"Daly, Mr. Eugene Patrick",male,29.0,0,0,7.75,Q,Mr,U,1,1,Young Adult,Survived
+512,0,3,"Webber, Mr. James",male,30.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+513,1,1,"McGough, Mr. James Robert",male,36.0,0,0,26.2875,S,Mr,E,1,1,Adult,Survived
+514,1,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,1,0,59.4,C,Mrs,U,2,0,Adult,Survived
+515,0,3,"Coleff, Mr. Satio",male,24.0,0,0,7.4958,S,Mr,U,1,1,Young Adult,Died
+516,0,1,"Walker, Mr. William Anderson",male,47.0,0,0,34.0208,S,Mr,D,1,1,Adult,Died
+517,1,2,"Lemore, Mrs. (Amelia Milley)",female,34.0,0,0,10.5,S,Mrs,F,1,1,Young Adult,Survived
+518,0,3,"Ryan, Mr. Patrick",male,30.0,0,0,24.15,Q,Mr,U,1,1,Young Adult,Died
+519,1,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,1,0,26.0,S,Mrs,U,2,0,Adult,Survived
+520,0,3,"Pavlovic, Mr. Stefo",male,32.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+521,1,1,"Perreault, Miss. Anne",female,30.0,0,0,93.5,S,Miss,B,1,1,Young Adult,Survived
+522,0,3,"Vovk, Mr. Janko",male,22.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+523,0,3,"Lahoud, Mr. Sarkis",male,30.0,0,0,7.225,C,Mr,U,1,1,Young Adult,Died
+524,1,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,0,1,57.9792,C,Mrs,B,2,0,Adult,Survived
+525,0,3,"Kassem, Mr. Fared",male,30.0,0,0,7.2292,C,Mr,U,1,1,Young Adult,Died
+526,0,3,"Farrell, Mr. James",male,40.5,0,0,7.75,Q,Mr,U,1,1,Adult,Died
+527,1,2,"Ridsdale, Miss. Lucy",female,50.0,0,0,10.5,S,Miss,U,1,1,Adult,Survived
+528,0,1,"Farthing, Mr. John",male,30.0,0,0,221.7792,S,Mr,C,1,1,Young Adult,Died
+529,0,3,"Salonen, Mr. Johan Werner",male,39.0,0,0,7.925,S,Mr,U,1,1,Adult,Died
+530,0,2,"Hocking, Mr. Richard George",male,23.0,2,1,11.5,S,Mr,U,4,0,Young Adult,Died
+531,1,2,"Quick, Miss. Phyllis May",female,2.0,1,1,26.0,S,Miss,U,3,0,Child,Survived
+532,0,3,"Toufik, Mr. Nakli",male,30.0,0,0,7.2292,C,Mr,U,1,1,Young Adult,Died
+533,0,3,"Elias, Mr. Joseph Jr",male,17.0,1,1,7.2292,C,Mr,U,3,0,Teen,Died
+534,1,3,"Peter, Mrs. Catherine (Catherine Rizk)",female,35.0,0,2,22.3583,C,Mrs,U,3,0,Young Adult,Survived
+535,0,3,"Cacic, Miss. Marija",female,30.0,0,0,8.6625,S,Miss,U,1,1,Young Adult,Died
+536,1,2,"Hart, Miss. Eva Miriam",female,7.0,0,2,26.25,S,Miss,U,3,0,Child,Survived
+537,0,1,"Butt, Major. Archibald Willingham",male,45.0,0,0,26.55,S,Rare,B,1,1,Adult,Died
+538,1,1,"LeRoy, Miss. Bertha",female,30.0,0,0,106.425,C,Miss,U,1,1,Young Adult,Survived
+539,0,3,"Risien, Mr. Samuel Beard",male,30.0,0,0,14.5,S,Mr,U,1,1,Young Adult,Died
+540,1,1,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0,2,49.5,C,Miss,B,3,0,Young Adult,Survived
+541,1,1,"Crosby, Miss. Harriet R",female,36.0,0,2,71.0,S,Miss,B,3,0,Adult,Survived
+542,0,3,"Andersson, Miss. Ingeborg Constanzia",female,9.0,4,2,31.275,S,Miss,U,7,0,Child,Died
+543,0,3,"Andersson, Miss. Sigrid Elisabeth",female,11.0,4,2,31.275,S,Miss,U,7,0,Child,Died
+544,1,2,"Beane, Mr. Edward",male,32.0,1,0,26.0,S,Mr,U,2,0,Young Adult,Survived
+545,0,1,"Douglas, Mr. Walter Donald",male,50.0,1,0,106.425,C,Mr,C,2,0,Adult,Died
+546,0,1,"Nicholson, Mr. Arthur Ernest",male,64.0,0,0,26.0,S,Mr,U,1,1,Senior,Died
+547,1,2,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,1,0,26.0,S,Mrs,U,2,0,Young Adult,Survived
+548,1,2,"Padro y Manent, Mr. Julian",male,30.0,0,0,13.8625,C,Mr,U,1,1,Young Adult,Survived
+549,0,3,"Goldsmith, Mr. Frank John",male,33.0,1,1,20.525,S,Mr,U,3,0,Young Adult,Died
+550,1,2,"Davies, Master. John Morgan Jr",male,8.0,1,1,36.75,S,Master,U,3,0,Child,Survived
+551,1,1,"Thayer, Mr. John Borland Jr",male,17.0,0,2,110.8833,C,Mr,C,3,0,Teen,Survived
+552,0,2,"Sharp, Mr. Percival James R",male,27.0,0,0,26.0,S,Mr,U,1,1,Young Adult,Died
+553,0,3,"O'Brien, Mr. Timothy",male,30.0,0,0,7.8292,Q,Mr,U,1,1,Young Adult,Died
+554,1,3,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,0,0,7.225,C,Mr,U,1,1,Young Adult,Survived
+555,1,3,"Ohman, Miss. Velin",female,22.0,0,0,7.775,S,Miss,U,1,1,Young Adult,Survived
+556,0,1,"Wright, Mr. George",male,62.0,0,0,26.55,S,Mr,U,1,1,Senior,Died
+557,1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,1,0,39.6,C,Rare,A,2,0,Adult,Survived
+558,0,1,"Robbins, Mr. Victor",male,30.0,0,0,227.525,C,Mr,U,1,1,Young Adult,Died
+559,1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,1,1,79.65,S,Mrs,E,3,0,Adult,Survived
+560,1,3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,1,0,17.4,S,Mrs,U,2,0,Adult,Survived
+561,0,3,"Morrow, Mr. Thomas Rowan",male,30.0,0,0,7.75,Q,Mr,U,1,1,Young Adult,Died
+562,0,3,"Sivic, Mr. Husein",male,40.0,0,0,7.8958,S,Mr,U,1,1,Adult,Died
+563,0,2,"Norman, Mr. Robert Douglas",male,28.0,0,0,13.5,S,Mr,U,1,1,Young Adult,Died
+564,0,3,"Simmons, Mr. John",male,30.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+565,0,3,"Meanwell, Miss. (Marion Ogden)",female,21.0,0,0,8.05,S,Miss,U,1,1,Young Adult,Died
+566,0,3,"Davies, Mr. Alfred J",male,24.0,2,0,24.15,S,Mr,U,3,0,Young Adult,Died
+567,0,3,"Stoytcheff, Mr. Ilia",male,19.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+568,0,3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29.0,0,4,21.075,S,Mrs,U,5,0,Young Adult,Died
+569,0,3,"Doharr, Mr. Tannous",male,30.0,0,0,7.2292,C,Mr,U,1,1,Young Adult,Died
+570,1,3,"Jonsson, Mr. Carl",male,32.0,0,0,7.8542,S,Mr,U,1,1,Young Adult,Survived
+571,1,2,"Harris, Mr. George",male,62.0,0,0,10.5,S,Mr,U,1,1,Senior,Survived
+572,1,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,2,0,51.4792,S,Mrs,C,3,0,Adult,Survived
+573,1,1,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,0,0,26.3875,S,Mr,E,1,1,Adult,Survived
+574,1,3,"Kelly, Miss. Mary",female,21.0,0,0,7.75,Q,Miss,U,1,1,Young Adult,Survived
+575,0,3,"Rush, Mr. Alfred George John",male,16.0,0,0,8.05,S,Mr,U,1,1,Teen,Died
+576,0,3,"Patchett, Mr. George",male,19.0,0,0,14.5,S,Mr,U,1,1,Young Adult,Died
+577,1,2,"Garside, Miss. Ethel",female,34.0,0,0,13.0,S,Miss,U,1,1,Young Adult,Survived
+578,1,1,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,1,0,55.9,S,Mrs,E,2,0,Adult,Survived
+579,0,3,"Caram, Mrs. Joseph (Maria Elias)",female,35.0,1,0,14.4583,C,Mrs,U,2,0,Young Adult,Died
+580,1,3,"Jussila, Mr. Eiriik",male,32.0,0,0,7.925,S,Mr,U,1,1,Young Adult,Survived
+581,1,2,"Christy, Miss. Julie Rachel",female,25.0,1,1,30.0,S,Miss,U,3,0,Young Adult,Survived
+582,1,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,1,1,110.8833,C,Mrs,C,3,0,Adult,Survived
+583,0,2,"Downton, Mr. William James",male,54.0,0,0,26.0,S,Mr,U,1,1,Adult,Died
+584,0,1,"Ross, Mr. John Hugo",male,36.0,0,0,40.125,C,Mr,A,1,1,Adult,Died
+585,0,3,"Paulner, Mr. Uscher",male,30.0,0,0,8.7125,C,Mr,U,1,1,Young Adult,Died
+586,1,1,"Taussig, Miss. Ruth",female,18.0,0,2,79.65,S,Miss,E,3,0,Teen,Survived
+587,0,2,"Jarvis, Mr. John Denzil",male,47.0,0,0,15.0,S,Mr,U,1,1,Adult,Died
+588,1,1,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,1,1,79.2,C,Mr,B,3,0,Adult,Survived
+589,0,3,"Gilinski, Mr. Eliezer",male,22.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+590,0,3,"Murdlin, Mr. Joseph",male,30.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+591,0,3,"Rintamaki, Mr. Matti",male,35.0,0,0,7.125,S,Mr,U,1,1,Young Adult,Died
+592,1,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1,0,78.2667,C,Mrs,D,2,0,Adult,Survived
+593,0,3,"Elsbury, Mr. William James",male,47.0,0,0,7.25,S,Mr,U,1,1,Adult,Died
+594,0,3,"Bourke, Miss. Mary",female,21.0,0,2,7.75,Q,Miss,U,3,0,Young Adult,Died
+595,0,2,"Chapman, Mr. John Henry",male,37.0,1,0,26.0,S,Mr,U,2,0,Adult,Died
+596,0,3,"Van Impe, Mr. Jean Baptiste",male,36.0,1,1,24.15,S,Mr,U,3,0,Adult,Died
+597,1,2,"Leitch, Miss. Jessie Wills",female,21.0,0,0,33.0,S,Miss,U,1,1,Young Adult,Survived
+598,0,3,"Johnson, Mr. Alfred",male,49.0,0,0,0.0,S,Mr,U,1,1,Adult,Died
+599,0,3,"Boulos, Mr. Hanna",male,30.0,0,0,7.225,C,Mr,U,1,1,Young Adult,Died
+600,1,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1,0,56.9292,C,Rare,A,2,0,Adult,Survived
+601,1,2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,2,1,27.0,S,Mrs,U,4,0,Young Adult,Survived
+602,0,3,"Slabenoff, Mr. Petco",male,30.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+603,0,1,"Harrington, Mr. Charles H",male,30.0,0,0,42.4,S,Mr,U,1,1,Young Adult,Died
+604,0,3,"Torber, Mr. Ernst William",male,44.0,0,0,8.05,S,Mr,U,1,1,Adult,Died
+605,1,1,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,0,0,26.55,C,Mr,U,1,1,Young Adult,Survived
+606,0,3,"Lindell, Mr. Edvard Bengtsson",male,36.0,1,0,15.55,S,Mr,U,2,0,Adult,Died
+607,0,3,"Karaic, Mr. Milan",male,30.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+608,1,1,"Daniel, Mr. Robert Williams",male,27.0,0,0,30.5,S,Mr,U,1,1,Young Adult,Survived
+609,1,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,1,2,41.5792,C,Mrs,U,4,0,Young Adult,Survived
+610,1,1,"Shutes, Miss. Elizabeth W",female,40.0,0,0,153.4625,S,Miss,C,1,1,Adult,Survived
+611,0,3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39.0,1,5,31.275,S,Mrs,U,7,0,Adult,Died
+612,0,3,"Jardin, Mr. Jose Neto",male,30.0,0,0,7.05,S,Mr,U,1,1,Young Adult,Died
+613,1,3,"Murphy, Miss. Margaret Jane",female,21.0,1,0,15.5,Q,Miss,U,2,0,Young Adult,Survived
+614,0,3,"Horgan, Mr. John",male,30.0,0,0,7.75,Q,Mr,U,1,1,Young Adult,Died
+615,0,3,"Brocklebank, Mr. William Alfred",male,35.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+616,1,2,"Herman, Miss. Alice",female,24.0,1,2,65.0,S,Miss,U,4,0,Young Adult,Survived
+617,0,3,"Danbom, Mr. Ernst Gilbert",male,34.0,1,1,14.4,S,Mr,U,3,0,Young Adult,Died
+618,0,3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,1,0,16.1,S,Mrs,U,2,0,Young Adult,Died
+619,1,2,"Becker, Miss. Marion Louise",female,4.0,2,1,39.0,S,Miss,F,4,0,Child,Survived
+620,0,2,"Gavey, Mr. Lawrence",male,26.0,0,0,10.5,S,Mr,U,1,1,Young Adult,Died
+621,0,3,"Yasbeck, Mr. Antoni",male,27.0,1,0,14.4542,C,Mr,U,2,0,Young Adult,Died
+622,1,1,"Kimball, Mr. Edwin Nelson Jr",male,42.0,1,0,52.5542,S,Mr,D,2,0,Adult,Survived
+623,1,3,"Nakid, Mr. Sahid",male,20.0,1,1,15.7417,C,Mr,U,3,0,Young Adult,Survived
+624,0,3,"Hansen, Mr. Henry Damsgaard",male,21.0,0,0,7.8542,S,Mr,U,1,1,Young Adult,Died
+625,0,3,"Bowen, Mr. David John ""Dai""",male,21.0,0,0,16.1,S,Mr,U,1,1,Young Adult,Died
+626,0,1,"Sutton, Mr. Frederick",male,61.0,0,0,32.3208,S,Mr,D,1,1,Senior,Died
+627,0,2,"Kirkland, Rev. Charles Leonard",male,57.0,0,0,12.35,Q,Rare,U,1,1,Adult,Died
+628,1,1,"Longley, Miss. Gretchen Fiske",female,21.0,0,0,77.9583,S,Miss,D,1,1,Young Adult,Survived
+629,0,3,"Bostandyeff, Mr. Guentcho",male,26.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+630,0,3,"O'Connell, Mr. Patrick D",male,30.0,0,0,7.7333,Q,Mr,U,1,1,Young Adult,Died
+631,1,1,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,0,0,30.0,S,Mr,A,1,1,Senior,Survived
+632,0,3,"Lundahl, Mr. Johan Svensson",male,51.0,0,0,7.0542,S,Mr,U,1,1,Adult,Died
+633,1,1,"Stahelin-Maeglin, Dr. Max",male,32.0,0,0,30.5,C,Rare,B,1,1,Young Adult,Survived
+634,0,1,"Parr, Mr. William Henry Marsh",male,30.0,0,0,0.0,S,Mr,U,1,1,Young Adult,Died
+635,0,3,"Skoog, Miss. Mabel",female,9.0,3,2,27.9,S,Miss,U,6,0,Child,Died
+636,1,2,"Davis, Miss. Mary",female,28.0,0,0,13.0,S,Miss,U,1,1,Young Adult,Survived
+637,0,3,"Leinonen, Mr. Antti Gustaf",male,32.0,0,0,7.925,S,Mr,U,1,1,Young Adult,Died
+638,0,2,"Collyer, Mr. Harvey",male,31.0,1,1,26.25,S,Mr,U,3,0,Young Adult,Died
+639,0,3,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41.0,0,5,39.6875,S,Mrs,U,6,0,Adult,Died
+640,0,3,"Thorneycroft, Mr. Percival",male,30.0,1,0,16.1,S,Mr,U,2,0,Young Adult,Died
+641,0,3,"Jensen, Mr. Hans Peder",male,20.0,0,0,7.8542,S,Mr,U,1,1,Young Adult,Died
+642,1,1,"Sagesser, Mlle. Emma",female,24.0,0,0,69.3,C,Miss,B,1,1,Young Adult,Survived
+643,0,3,"Skoog, Miss. Margit Elizabeth",female,2.0,3,2,27.9,S,Miss,U,6,0,Child,Died
+644,1,3,"Foo, Mr. Choong",male,30.0,0,0,56.4958,S,Mr,U,1,1,Young Adult,Survived
+645,1,3,"Baclini, Miss. Eugenie",female,0.75,2,1,19.2583,C,Miss,U,4,0,Child,Survived
+646,1,1,"Harper, Mr. Henry Sleeper",male,48.0,1,0,76.7292,C,Mr,D,2,0,Adult,Survived
+647,0,3,"Cor, Mr. Liudevit",male,19.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+648,1,1,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,0,0,35.5,C,Rare,A,1,1,Adult,Survived
+649,0,3,"Willey, Mr. Edward",male,30.0,0,0,7.55,S,Mr,U,1,1,Young Adult,Died
+650,1,3,"Stanley, Miss. Amy Zillah Elsie",female,23.0,0,0,7.55,S,Miss,U,1,1,Young Adult,Survived
+651,0,3,"Mitkoff, Mr. Mito",male,30.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+652,1,2,"Doling, Miss. Elsie",female,18.0,0,1,23.0,S,Miss,U,2,0,Teen,Survived
+653,0,3,"Kalvik, Mr. Johannes Halvorsen",male,21.0,0,0,8.4333,S,Mr,U,1,1,Young Adult,Died
+654,1,3,"O'Leary, Miss. Hanora ""Norah""",female,21.0,0,0,7.8292,Q,Miss,U,1,1,Young Adult,Survived
+655,0,3,"Hegarty, Miss. Hanora ""Nora""",female,18.0,0,0,6.75,Q,Miss,U,1,1,Teen,Died
+656,0,2,"Hickman, Mr. Leonard Mark",male,24.0,2,0,73.5,S,Mr,U,3,0,Young Adult,Died
+657,0,3,"Radeff, Mr. Alexander",male,30.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+658,0,3,"Bourke, Mrs. John (Catherine)",female,32.0,1,1,15.5,Q,Mrs,U,3,0,Young Adult,Died
+659,0,2,"Eitemiller, Mr. George Floyd",male,23.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Died
+660,0,1,"Newell, Mr. Arthur Webster",male,58.0,0,2,113.275,C,Mr,D,3,0,Adult,Died
+661,1,1,"Frauenthal, Dr. Henry William",male,50.0,2,0,133.65,S,Rare,U,3,0,Adult,Survived
+662,0,3,"Badt, Mr. Mohamed",male,40.0,0,0,7.225,C,Mr,U,1,1,Adult,Died
+663,0,1,"Colley, Mr. Edward Pomeroy",male,47.0,0,0,25.5875,S,Mr,E,1,1,Adult,Died
+664,0,3,"Coleff, Mr. Peju",male,36.0,0,0,7.4958,S,Mr,U,1,1,Adult,Died
+665,1,3,"Lindqvist, Mr. Eino William",male,20.0,1,0,7.925,S,Mr,U,2,0,Young Adult,Survived
+666,0,2,"Hickman, Mr. Lewis",male,32.0,2,0,73.5,S,Mr,U,3,0,Young Adult,Died
+667,0,2,"Butler, Mr. Reginald Fenton",male,25.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Died
+668,0,3,"Rommetvedt, Mr. Knud Paust",male,30.0,0,0,7.775,S,Mr,U,1,1,Young Adult,Died
+669,0,3,"Cook, Mr. Jacob",male,43.0,0,0,8.05,S,Mr,U,1,1,Adult,Died
+670,1,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,35.0,1,0,52.0,S,Mrs,C,2,0,Young Adult,Survived
+671,1,2,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,1,1,39.0,S,Mrs,U,3,0,Adult,Survived
+672,0,1,"Davidson, Mr. Thornton",male,31.0,1,0,52.0,S,Mr,B,2,0,Young Adult,Died
+673,0,2,"Mitchell, Mr. Henry Michael",male,70.0,0,0,10.5,S,Mr,U,1,1,Senior,Died
+674,1,2,"Wilhelms, Mr. Charles",male,31.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Survived
+675,0,2,"Watson, Mr. Ennis Hastings",male,30.0,0,0,0.0,S,Mr,U,1,1,Young Adult,Died
+676,0,3,"Edvardsson, Mr. Gustaf Hjalmar",male,18.0,0,0,7.775,S,Mr,U,1,1,Teen,Died
+677,0,3,"Sawyer, Mr. Frederick Charles",male,24.5,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+678,1,3,"Turja, Miss. Anna Sofia",female,18.0,0,0,9.8417,S,Miss,U,1,1,Teen,Survived
+679,0,3,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,1,6,46.9,S,Mrs,U,8,0,Adult,Died
+680,1,1,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,512.3292,C,Mr,B,2,0,Adult,Survived
+681,0,3,"Peters, Miss. Katie",female,21.0,0,0,8.1375,Q,Miss,U,1,1,Young Adult,Died
+682,1,1,"Hassab, Mr. Hammad",male,27.0,0,0,76.7292,C,Mr,D,1,1,Young Adult,Survived
+683,0,3,"Olsvigen, Mr. Thor Anderson",male,20.0,0,0,9.225,S,Mr,U,1,1,Young Adult,Died
+684,0,3,"Goodwin, Mr. Charles Edward",male,14.0,5,2,46.9,S,Mr,U,8,0,Teen,Died
+685,0,2,"Brown, Mr. Thomas William Solomon",male,60.0,1,1,39.0,S,Mr,U,3,0,Adult,Died
+686,0,2,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,1,2,41.5792,C,Mr,U,4,0,Young Adult,Died
+687,0,3,"Panula, Mr. Jaako Arnold",male,14.0,4,1,39.6875,S,Mr,U,6,0,Teen,Died
+688,0,3,"Dakic, Mr. Branko",male,19.0,0,0,10.1708,S,Mr,U,1,1,Young Adult,Died
+689,0,3,"Fischer, Mr. Eberhard Thelander",male,18.0,0,0,7.7958,S,Mr,U,1,1,Teen,Died
+690,1,1,"Madill, Miss. Georgette Alexandra",female,15.0,0,1,211.3375,S,Miss,B,2,0,Teen,Survived
+691,1,1,"Dick, Mr. Albert Adrian",male,31.0,1,0,57.0,S,Mr,B,2,0,Young Adult,Survived
+692,1,3,"Karun, Miss. Manca",female,4.0,0,1,13.4167,C,Miss,U,2,0,Child,Survived
+693,1,3,"Lam, Mr. Ali",male,30.0,0,0,56.4958,S,Mr,U,1,1,Young Adult,Survived
+694,0,3,"Saad, Mr. Khalil",male,25.0,0,0,7.225,C,Mr,U,1,1,Young Adult,Died
+695,0,1,"Weir, Col. John",male,60.0,0,0,26.55,S,Rare,U,1,1,Adult,Died
+696,0,2,"Chapman, Mr. Charles Henry",male,52.0,0,0,13.5,S,Mr,U,1,1,Adult,Died
+697,0,3,"Kelly, Mr. James",male,44.0,0,0,8.05,S,Mr,U,1,1,Adult,Died
+698,1,3,"Mullens, Miss. Katherine ""Katie""",female,21.0,0,0,7.7333,Q,Miss,U,1,1,Young Adult,Survived
+699,0,1,"Thayer, Mr. John Borland",male,49.0,1,1,110.8833,C,Mr,C,3,0,Adult,Died
+700,0,3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,0,0,7.65,S,Mr,F,1,1,Adult,Died
+701,1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,1,0,227.525,C,Mrs,C,2,0,Teen,Survived
+702,1,1,"Silverthorne, Mr. Spencer Victor",male,35.0,0,0,26.2875,S,Mr,E,1,1,Young Adult,Survived
+703,0,3,"Barbara, Miss. Saiide",female,18.0,0,1,14.4542,C,Miss,U,2,0,Teen,Died
+704,0,3,"Gallagher, Mr. Martin",male,25.0,0,0,7.7417,Q,Mr,U,1,1,Young Adult,Died
+705,0,3,"Hansen, Mr. Henrik Juul",male,26.0,1,0,7.8542,S,Mr,U,2,0,Young Adult,Died
+706,0,2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39.0,0,0,26.0,S,Mr,U,1,1,Adult,Died
+707,1,2,"Kelly, Mrs. Florence ""Fannie""",female,45.0,0,0,13.5,S,Mrs,U,1,1,Adult,Survived
+708,1,1,"Calderhead, Mr. Edward Pennington",male,42.0,0,0,26.2875,S,Mr,E,1,1,Adult,Survived
+709,1,1,"Cleaver, Miss. Alice",female,22.0,0,0,151.55,S,Miss,U,1,1,Young Adult,Survived
+710,1,3,"Moubarek, Master. Halim Gonios (""William George"")",male,3.5,1,1,15.2458,C,Master,U,3,0,Child,Survived
+711,1,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,0,0,49.5042,C,Miss,C,1,1,Young Adult,Survived
+712,0,1,"Klaber, Mr. Herman",male,30.0,0,0,26.55,S,Mr,C,1,1,Young Adult,Died
+713,1,1,"Taylor, Mr. Elmer Zebley",male,48.0,1,0,52.0,S,Mr,C,2,0,Adult,Survived
+714,0,3,"Larsson, Mr. August Viktor",male,29.0,0,0,9.4833,S,Mr,U,1,1,Young Adult,Died
+715,0,2,"Greenberg, Mr. Samuel",male,52.0,0,0,13.0,S,Mr,U,1,1,Adult,Died
+716,0,3,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,0,0,7.65,S,Mr,F,1,1,Young Adult,Died
+717,1,1,"Endres, Miss. Caroline Louise",female,38.0,0,0,227.525,C,Miss,C,1,1,Adult,Survived
+718,1,2,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,0,0,10.5,S,Miss,E,1,1,Young Adult,Survived
+719,0,3,"McEvoy, Mr. Michael",male,30.0,0,0,15.5,Q,Mr,U,1,1,Young Adult,Died
+720,0,3,"Johnson, Mr. Malkolm Joackim",male,33.0,0,0,7.775,S,Mr,U,1,1,Young Adult,Died
+721,1,2,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,0,1,33.0,S,Miss,U,2,0,Child,Survived
+722,0,3,"Jensen, Mr. Svend Lauritz",male,17.0,1,0,7.0542,S,Mr,U,2,0,Teen,Died
+723,0,2,"Gillespie, Mr. William Henry",male,34.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Died
+724,0,2,"Hodges, Mr. Henry Price",male,50.0,0,0,13.0,S,Mr,U,1,1,Adult,Died
+725,1,1,"Chambers, Mr. Norman Campbell",male,27.0,1,0,53.1,S,Mr,E,2,0,Young Adult,Survived
+726,0,3,"Oreskovic, Mr. Luka",male,20.0,0,0,8.6625,S,Mr,U,1,1,Young Adult,Died
+727,1,2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,3,0,21.0,S,Mrs,U,4,0,Young Adult,Survived
+728,1,3,"Mannion, Miss. Margareth",female,21.0,0,0,7.7375,Q,Miss,U,1,1,Young Adult,Survived
+729,0,2,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,1,0,26.0,S,Mr,U,2,0,Young Adult,Died
+730,0,3,"Ilmakangas, Miss. Pieta Sofia",female,25.0,1,0,7.925,S,Miss,U,2,0,Young Adult,Died
+731,1,1,"Allen, Miss. Elisabeth Walton",female,29.0,0,0,211.3375,S,Miss,B,1,1,Young Adult,Survived
+732,0,3,"Hassan, Mr. Houssein G N",male,11.0,0,0,18.7875,C,Mr,U,1,1,Child,Died
+733,0,2,"Knight, Mr. Robert J",male,30.0,0,0,0.0,S,Mr,U,1,1,Young Adult,Died
+734,0,2,"Berriman, Mr. William John",male,23.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Died
+735,0,2,"Troupiansky, Mr. Moses Aaron",male,23.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Died
+736,0,3,"Williams, Mr. Leslie",male,28.5,0,0,16.1,S,Mr,U,1,1,Young Adult,Died
+737,0,3,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,1,3,34.375,S,Mrs,U,5,0,Adult,Died
+738,1,1,"Lesurer, Mr. Gustave J",male,35.0,0,0,512.3292,C,Mr,B,1,1,Young Adult,Survived
+739,0,3,"Ivanoff, Mr. Kanio",male,30.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+740,0,3,"Nankoff, Mr. Minko",male,30.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+741,1,1,"Hawksford, Mr. Walter James",male,30.0,0,0,30.0,S,Mr,D,1,1,Young Adult,Survived
+742,0,1,"Cavendish, Mr. Tyrell William",male,36.0,1,0,78.85,S,Mr,C,2,0,Adult,Died
+743,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,2,262.375,C,Miss,B,5,0,Young Adult,Survived
+744,0,3,"McNamee, Mr. Neal",male,24.0,1,0,16.1,S,Mr,U,2,0,Young Adult,Died
+745,1,3,"Stranden, Mr. Juho",male,31.0,0,0,7.925,S,Mr,U,1,1,Young Adult,Survived
+746,0,1,"Crosby, Capt. Edward Gifford",male,70.0,1,1,71.0,S,Rare,B,3,0,Senior,Died
+747,0,3,"Abbott, Mr. Rossmore Edward",male,16.0,1,1,20.25,S,Mr,U,3,0,Teen,Died
+748,1,2,"Sinkkonen, Miss. Anna",female,30.0,0,0,13.0,S,Miss,U,1,1,Young Adult,Survived
+749,0,1,"Marvin, Mr. Daniel Warner",male,19.0,1,0,53.1,S,Mr,D,2,0,Young Adult,Died
+750,0,3,"Connaghton, Mr. Michael",male,31.0,0,0,7.75,Q,Mr,U,1,1,Young Adult,Died
+751,1,2,"Wells, Miss. Joan",female,4.0,1,1,23.0,S,Miss,U,3,0,Child,Survived
+752,1,3,"Moor, Master. Meier",male,6.0,0,1,12.475,S,Master,E,2,0,Child,Survived
+753,0,3,"Vande Velde, Mr. Johannes Joseph",male,33.0,0,0,9.5,S,Mr,U,1,1,Young Adult,Died
+754,0,3,"Jonkoff, Mr. Lalio",male,23.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+755,1,2,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,1,2,65.0,S,Mrs,U,4,0,Adult,Survived
+756,1,2,"Hamalainen, Master. Viljo",male,0.67,1,1,14.5,S,Master,U,3,0,Child,Survived
+757,0,3,"Carlsson, Mr. August Sigfrid",male,28.0,0,0,7.7958,S,Mr,U,1,1,Young Adult,Died
+758,0,2,"Bailey, Mr. Percy Andrew",male,18.0,0,0,11.5,S,Mr,U,1,1,Teen,Died
+759,0,3,"Theobald, Mr. Thomas Leonard",male,34.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+760,1,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,0,0,86.5,S,Rare,B,1,1,Young Adult,Survived
+761,0,3,"Garfirth, Mr. John",male,30.0,0,0,14.5,S,Mr,U,1,1,Young Adult,Died
+762,0,3,"Nirva, Mr. Iisakki Antino Aijo",male,41.0,0,0,7.125,S,Mr,U,1,1,Adult,Died
+763,1,3,"Barah, Mr. Hanna Assi",male,20.0,0,0,7.2292,C,Mr,U,1,1,Young Adult,Survived
+764,1,1,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,1,2,120.0,S,Mrs,B,4,0,Adult,Survived
+765,0,3,"Eklund, Mr. Hans Linus",male,16.0,0,0,7.775,S,Mr,U,1,1,Teen,Died
+766,1,1,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,1,0,77.9583,S,Mrs,D,2,0,Adult,Survived
+767,0,1,"Brewe, Dr. Arthur Jackson",male,48.5,0,0,39.6,C,Rare,U,1,1,Adult,Died
+768,0,3,"Mangan, Miss. Mary",female,30.5,0,0,7.75,Q,Miss,U,1,1,Young Adult,Died
+769,0,3,"Moran, Mr. Daniel J",male,30.0,1,0,24.15,Q,Mr,U,2,0,Young Adult,Died
+770,0,3,"Gronnestad, Mr. Daniel Danielsen",male,32.0,0,0,8.3625,S,Mr,U,1,1,Young Adult,Died
+771,0,3,"Lievens, Mr. Rene Aime",male,24.0,0,0,9.5,S,Mr,U,1,1,Young Adult,Died
+772,0,3,"Jensen, Mr. Niels Peder",male,48.0,0,0,7.8542,S,Mr,U,1,1,Adult,Died
+773,0,2,"Mack, Mrs. (Mary)",female,57.0,0,0,10.5,S,Mrs,E,1,1,Adult,Died
+774,0,3,"Elias, Mr. Dibo",male,30.0,0,0,7.225,C,Mr,U,1,1,Young Adult,Died
+775,1,2,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,1,3,23.0,S,Mrs,U,5,0,Adult,Survived
+776,0,3,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,0,0,7.75,S,Mr,U,1,1,Teen,Died
+777,0,3,"Tobin, Mr. Roger",male,30.0,0,0,7.75,Q,Mr,F,1,1,Young Adult,Died
+778,1,3,"Emanuel, Miss. Virginia Ethel",female,5.0,0,0,12.475,S,Miss,U,1,1,Child,Survived
+779,0,3,"Kilgannon, Mr. Thomas J",male,30.0,0,0,7.7375,Q,Mr,U,1,1,Young Adult,Died
+780,1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,0,1,211.3375,S,Mrs,B,2,0,Adult,Survived
+781,1,3,"Ayoub, Miss. Banoura",female,13.0,0,0,7.2292,C,Miss,U,1,1,Teen,Survived
+782,1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1,0,57.0,S,Mrs,B,2,0,Teen,Survived
+783,0,1,"Long, Mr. Milton Clyde",male,29.0,0,0,30.0,S,Mr,D,1,1,Young Adult,Died
+784,0,3,"Johnston, Mr. Andrew G",male,30.0,1,2,23.45,S,Mr,U,4,0,Young Adult,Died
+785,0,3,"Ali, Mr. William",male,25.0,0,0,7.05,S,Mr,U,1,1,Young Adult,Died
+786,0,3,"Harmer, Mr. Abraham (David Lishin)",male,25.0,0,0,7.25,S,Mr,U,1,1,Young Adult,Died
+787,1,3,"Sjoblom, Miss. Anna Sofia",female,18.0,0,0,7.4958,S,Miss,U,1,1,Teen,Survived
+788,0,3,"Rice, Master. George Hugh",male,8.0,4,1,29.125,Q,Master,U,6,0,Child,Died
+789,1,3,"Dean, Master. Bertram Vere",male,1.0,1,2,20.575,S,Master,U,4,0,Child,Survived
+790,0,1,"Guggenheim, Mr. Benjamin",male,46.0,0,0,79.2,C,Mr,B,1,1,Adult,Died
+791,0,3,"Keane, Mr. Andrew ""Andy""",male,30.0,0,0,7.75,Q,Mr,U,1,1,Young Adult,Died
+792,0,2,"Gaskell, Mr. Alfred",male,16.0,0,0,26.0,S,Mr,U,1,1,Teen,Died
+793,0,3,"Sage, Miss. Stella Anna",female,21.0,8,2,69.55,S,Miss,U,11,0,Young Adult,Died
+794,0,1,"Hoyt, Mr. William Fisher",male,30.0,0,0,30.6958,C,Mr,U,1,1,Young Adult,Died
+795,0,3,"Dantcheff, Mr. Ristiu",male,25.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+796,0,2,"Otter, Mr. Richard",male,39.0,0,0,13.0,S,Mr,U,1,1,Adult,Died
+797,1,1,"Leader, Dr. Alice (Farnham)",female,49.0,0,0,25.9292,S,Rare,D,1,1,Adult,Survived
+798,1,3,"Osman, Mrs. Mara",female,31.0,0,0,8.6833,S,Mrs,U,1,1,Young Adult,Survived
+799,0,3,"Ibrahim Shawah, Mr. Yousseff",male,30.0,0,0,7.2292,C,Mr,U,1,1,Young Adult,Died
+800,0,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,1,1,24.15,S,Mrs,U,3,0,Young Adult,Died
+801,0,2,"Ponesell, Mr. Martin",male,34.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Died
+802,1,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,1,1,26.25,S,Mrs,U,3,0,Young Adult,Survived
+803,1,1,"Carter, Master. William Thornton II",male,11.0,1,2,120.0,S,Master,B,4,0,Child,Survived
+804,1,3,"Thomas, Master. Assad Alexander",male,0.42,0,1,8.5167,C,Master,U,2,0,Child,Survived
+805,1,3,"Hedman, Mr. Oskar Arvid",male,27.0,0,0,6.975,S,Mr,U,1,1,Young Adult,Survived
+806,0,3,"Johansson, Mr. Karl Johan",male,31.0,0,0,7.775,S,Mr,U,1,1,Young Adult,Died
+807,0,1,"Andrews, Mr. Thomas Jr",male,39.0,0,0,0.0,S,Mr,A,1,1,Adult,Died
+808,0,3,"Pettersson, Miss. Ellen Natalia",female,18.0,0,0,7.775,S,Miss,U,1,1,Teen,Died
+809,0,2,"Meyer, Mr. August",male,39.0,0,0,13.0,S,Mr,U,1,1,Adult,Died
+810,1,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,1,0,53.1,S,Mrs,E,2,0,Young Adult,Survived
+811,0,3,"Alexander, Mr. William",male,26.0,0,0,7.8875,S,Mr,U,1,1,Young Adult,Died
+812,0,3,"Lester, Mr. James",male,39.0,0,0,24.15,S,Mr,U,1,1,Adult,Died
+813,0,2,"Slemen, Mr. Richard James",male,35.0,0,0,10.5,S,Mr,U,1,1,Young Adult,Died
+814,0,3,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,4,2,31.275,S,Miss,U,7,0,Child,Died
+815,0,3,"Tomlin, Mr. Ernest Portage",male,30.5,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+816,0,1,"Fry, Mr. Richard",male,30.0,0,0,0.0,S,Mr,B,1,1,Young Adult,Died
+817,0,3,"Heininen, Miss. Wendla Maria",female,23.0,0,0,7.925,S,Miss,U,1,1,Young Adult,Died
+818,0,2,"Mallet, Mr. Albert",male,31.0,1,1,37.0042,C,Mr,U,3,0,Young Adult,Died
+819,0,3,"Holm, Mr. John Fredrik Alexander",male,43.0,0,0,6.45,S,Mr,U,1,1,Adult,Died
+820,0,3,"Skoog, Master. Karl Thorsten",male,10.0,3,2,27.9,S,Master,U,6,0,Child,Died
+821,1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1,1,93.5,S,Mrs,B,3,0,Adult,Survived
+822,1,3,"Lulic, Mr. Nikola",male,27.0,0,0,8.6625,S,Mr,U,1,1,Young Adult,Survived
+823,0,1,"Reuchlin, Jonkheer. John George",male,38.0,0,0,0.0,S,Rare,U,1,1,Adult,Died
+824,1,3,"Moor, Mrs. (Beila)",female,27.0,0,1,12.475,S,Mrs,E,2,0,Young Adult,Survived
+825,0,3,"Panula, Master. Urho Abraham",male,2.0,4,1,39.6875,S,Master,U,6,0,Child,Died
+826,0,3,"Flynn, Mr. John",male,30.0,0,0,6.95,Q,Mr,U,1,1,Young Adult,Died
+827,0,3,"Lam, Mr. Len",male,30.0,0,0,56.4958,S,Mr,U,1,1,Young Adult,Died
+828,1,2,"Mallet, Master. Andre",male,1.0,0,2,37.0042,C,Master,U,3,0,Child,Survived
+829,1,3,"McCormack, Mr. Thomas Joseph",male,30.0,0,0,7.75,Q,Mr,U,1,1,Young Adult,Survived
+830,1,1,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,0,0,80.0,S,Mrs,B,1,1,Senior,Survived
+831,1,3,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,1,0,14.4542,C,Mrs,U,2,0,Teen,Survived
+832,1,2,"Richards, Master. George Sibley",male,0.83,1,1,18.75,S,Master,U,3,0,Child,Survived
+833,0,3,"Saad, Mr. Amin",male,30.0,0,0,7.2292,C,Mr,U,1,1,Young Adult,Died
+834,0,3,"Augustsson, Mr. Albert",male,23.0,0,0,7.8542,S,Mr,U,1,1,Young Adult,Died
+835,0,3,"Allum, Mr. Owen George",male,18.0,0,0,8.3,S,Mr,U,1,1,Teen,Died
+836,1,1,"Compton, Miss. Sara Rebecca",female,39.0,1,1,83.1583,C,Miss,E,3,0,Adult,Survived
+837,0,3,"Pasic, Mr. Jakob",male,21.0,0,0,8.6625,S,Mr,U,1,1,Young Adult,Died
+838,0,3,"Sirota, Mr. Maurice",male,30.0,0,0,8.05,S,Mr,U,1,1,Young Adult,Died
+839,1,3,"Chip, Mr. Chang",male,32.0,0,0,56.4958,S,Mr,U,1,1,Young Adult,Survived
+840,1,1,"Marechal, Mr. Pierre",male,30.0,0,0,29.7,C,Mr,C,1,1,Young Adult,Survived
+841,0,3,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,0,0,7.925,S,Mr,U,1,1,Young Adult,Died
+842,0,2,"Mudd, Mr. Thomas Charles",male,16.0,0,0,10.5,S,Mr,U,1,1,Teen,Died
+843,1,1,"Serepeca, Miss. Augusta",female,30.0,0,0,31.0,C,Miss,U,1,1,Young Adult,Survived
+844,0,3,"Lemberopolous, Mr. Peter L",male,34.5,0,0,6.4375,C,Mr,U,1,1,Young Adult,Died
+845,0,3,"Culumovic, Mr. Jeso",male,17.0,0,0,8.6625,S,Mr,U,1,1,Teen,Died
+846,0,3,"Abbing, Mr. Anthony",male,42.0,0,0,7.55,S,Mr,U,1,1,Adult,Died
+847,0,3,"Sage, Mr. Douglas Bullen",male,30.0,8,2,69.55,S,Mr,U,11,0,Young Adult,Died
+848,0,3,"Markoff, Mr. Marin",male,35.0,0,0,7.8958,C,Mr,U,1,1,Young Adult,Died
+849,0,2,"Harper, Rev. John",male,28.0,0,1,33.0,S,Rare,U,2,0,Young Adult,Died
+850,1,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,35.0,1,0,89.1042,C,Mrs,C,2,0,Young Adult,Survived
+851,0,3,"Andersson, Master. Sigvard Harald Elias",male,4.0,4,2,31.275,S,Master,U,7,0,Child,Died
+852,0,3,"Svensson, Mr. Johan",male,74.0,0,0,7.775,S,Mr,U,1,1,Senior,Died
+853,0,3,"Boulos, Miss. Nourelain",female,9.0,1,1,15.2458,C,Miss,U,3,0,Child,Died
+854,1,1,"Lines, Miss. Mary Conover",female,16.0,0,1,39.4,S,Miss,D,2,0,Teen,Survived
+855,0,2,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0,1,0,26.0,S,Mrs,U,2,0,Adult,Died
+856,1,3,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,0,1,9.35,S,Mrs,U,2,0,Teen,Survived
+857,1,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,1,1,164.8667,S,Mrs,U,3,0,Adult,Survived
+858,1,1,"Daly, Mr. Peter Denis ",male,51.0,0,0,26.55,S,Mr,E,1,1,Adult,Survived
+859,1,3,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,0,3,19.2583,C,Mrs,U,4,0,Young Adult,Survived
+860,0,3,"Razi, Mr. Raihed",male,30.0,0,0,7.2292,C,Mr,U,1,1,Young Adult,Died
+861,0,3,"Hansen, Mr. Claus Peter",male,41.0,2,0,14.1083,S,Mr,U,3,0,Adult,Died
+862,0,2,"Giles, Mr. Frederick Edward",male,21.0,1,0,11.5,S,Mr,U,2,0,Young Adult,Died
+863,1,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,0,0,25.9292,S,Mrs,D,1,1,Adult,Survived
+864,0,3,"Sage, Miss. Dorothy Edith ""Dolly""",female,21.0,8,2,69.55,S,Miss,U,11,0,Young Adult,Died
+865,0,2,"Gill, Mr. John William",male,24.0,0,0,13.0,S,Mr,U,1,1,Young Adult,Died
+866,1,2,"Bystrom, Mrs. (Karolina)",female,42.0,0,0,13.0,S,Mrs,U,1,1,Adult,Survived
+867,1,2,"Duran y More, Miss. Asuncion",female,27.0,1,0,13.8583,C,Miss,U,2,0,Young Adult,Survived
+868,0,1,"Roebling, Mr. Washington Augustus II",male,31.0,0,0,50.4958,S,Mr,A,1,1,Young Adult,Died
+869,0,3,"van Melkebeke, Mr. Philemon",male,30.0,0,0,9.5,S,Mr,U,1,1,Young Adult,Died
+870,1,3,"Johnson, Master. Harold Theodor",male,4.0,1,1,11.1333,S,Master,U,3,0,Child,Survived
+871,0,3,"Balkic, Mr. Cerin",male,26.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+872,1,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,1,1,52.5542,S,Mrs,D,3,0,Adult,Survived
+873,0,1,"Carlsson, Mr. Frans Olof",male,33.0,0,0,5.0,S,Mr,B,1,1,Young Adult,Died
+874,0,3,"Vander Cruyssen, Mr. Victor",male,47.0,0,0,9.0,S,Mr,U,1,1,Adult,Died
+875,1,2,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,1,0,24.0,C,Mrs,U,2,0,Young Adult,Survived
+876,1,3,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,0,0,7.225,C,Miss,U,1,1,Teen,Survived
+877,0,3,"Gustafsson, Mr. Alfred Ossian",male,20.0,0,0,9.8458,S,Mr,U,1,1,Young Adult,Died
+878,0,3,"Petroff, Mr. Nedelio",male,19.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+879,0,3,"Laleff, Mr. Kristo",male,30.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+880,1,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,0,1,83.1583,C,Mrs,C,2,0,Adult,Survived
+881,1,2,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,0,1,26.0,S,Mrs,U,2,0,Young Adult,Survived
+882,0,3,"Markun, Mr. Johann",male,33.0,0,0,7.8958,S,Mr,U,1,1,Young Adult,Died
+883,0,3,"Dahlberg, Miss. Gerda Ulrika",female,22.0,0,0,10.5167,S,Miss,U,1,1,Young Adult,Died
+884,0,2,"Banfield, Mr. Frederick James",male,28.0,0,0,10.5,S,Mr,U,1,1,Young Adult,Died
+885,0,3,"Sutehall, Mr. Henry Jr",male,25.0,0,0,7.05,S,Mr,U,1,1,Young Adult,Died
+886,0,3,"Rice, Mrs. William (Margaret Norton)",female,39.0,0,5,29.125,Q,Mrs,U,6,0,Adult,Died
+887,0,2,"Montvila, Rev. Juozas",male,27.0,0,0,13.0,S,Rare,U,1,1,Young Adult,Died
+888,1,1,"Graham, Miss. Margaret Edith",female,19.0,0,0,30.0,S,Miss,B,1,1,Young Adult,Survived
+889,0,3,"Johnston, Miss. Catherine Helen ""Carrie""",female,21.0,1,2,23.45,S,Miss,U,4,0,Young Adult,Died
+890,1,1,"Behr, Mr. Karl Howell",male,26.0,0,0,30.0,C,Mr,C,1,1,Young Adult,Survived
+891,0,3,"Dooley, Mr. Patrick",male,32.0,0,0,7.75,Q,Mr,U,1,1,Young Adult,Died
